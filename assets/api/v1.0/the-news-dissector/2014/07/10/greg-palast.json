@@ -1,0 +1,50 @@
+{
+  "header": {
+    "category": "the-news-dissector",
+    "image": {
+      "type": "",
+      "url": ""
+    },
+    "layout": "podcast",
+    "link": "http://thenewsdissector.podbean.com/e/news-dissector-greg-palast-071014/",
+    "podcast": {
+      "developer-note": "",
+      "length": "56:14",
+      "note": "",
+      "size": 13496111,
+      "type": "audio/mpeg",
+      "url": "http://thenewsdissector.podbean.com/mf/feed/ybgjma/NewsDissector_071014.mp3"
+    },
+    "show": {
+      "category": [
+        "News & Politics"
+      ],
+      "image": {
+        "height": 144,
+        "url": "http://thenewsdissector.podbean.com/feed/h",
+        "width": 144
+      },
+      "owner": {
+        "email": "h",
+        "name": "h"
+      },
+      "published": {
+        "string": "Fri, 19 Sep 2014 16:24:15 +0000",
+        "timestamp": "1411161855"
+      },
+      "subtitle": "h",
+      "title": "The News Dissector"
+    },
+    "tags": [
+      "News & Politics",
+      "the-news-dissector"
+    ],
+    "title": "Greg Palast"
+  },
+  "title": "Greg Palast",
+  "date": "2014-07-10 00:00:00 -0400",
+  "categories": [
+    "the-news-dissector"
+  ],
+  "content": "<p>Today’s guest will be Investigative Reporter And Columnist “Greg Palast”.</p>\n\n<!--more-->\n"
+}

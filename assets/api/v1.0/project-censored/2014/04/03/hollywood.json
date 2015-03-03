@@ -1,0 +1,50 @@
+{
+  "header": {
+    "category": "project-censored",
+    "image": {
+      "type": "image",
+      "url": "http://imglogo.podbean.com/image-logo/405745/Project-Censored-AlbumArt.jpg"
+    },
+    "layout": "podcast",
+    "link": "http://projectcensored.podbean.com/e/project-censored-hollywood-040314/",
+    "podcast": {
+      "developer-note": "",
+      "length": "47:41",
+      "note": "",
+      "size": 11445582,
+      "type": "audio/mpeg",
+      "url": "http://projectcensored.podbean.com/mf/feed/2mt3rv/Project-Censored-032814.mp3"
+    },
+    "show": {
+      "category": [
+        "News & Politics"
+      ],
+      "image": {
+        "height": 144,
+        "url": "http://imglogo.podbean.com/image-logo/405745/Project-Censored-AlbumArt.jpg",
+        "width": 144
+      },
+      "owner": {
+        "email": "karalee@garynull.com",
+        "name": "Progressive Radio Network"
+      },
+      "published": {
+        "string": "Tue, 24 Feb 2015 18:40:50 +0000",
+        "timestamp": "1424821250"
+      },
+      "subtitle": "Mickey Huff is co-host of the Project Censored Show with former Project Censored director Dr. Peter Phillips. It airs on the progressiveradionetwork.com out of New York City",
+      "title": "Project Censored"
+    },
+    "tags": [
+      "News & Politics",
+      "project-censored"
+    ],
+    "title": "Hollywood"
+  },
+  "title": "Hollywood",
+  "date": "2014-04-03 00:00:00 -0400",
+  "categories": [
+    "project-censored"
+  ],
+  "content": "<p>On the March 28th Project Censored show from Pacifica Mickey Huff and Peter Phillips address the issues of Hollywood<span class=\"ellipsis\">…</span>\n<!--more-->\noutsourcing of jobs and the high tech impacts on public education. \n<br /></p>\n"
+}

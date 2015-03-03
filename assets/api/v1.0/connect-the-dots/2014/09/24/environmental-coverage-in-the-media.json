@@ -1,0 +1,52 @@
+{
+  "header": {
+    "category": "connect-the-dots",
+    "image": {
+      "type": "",
+      "url": ""
+    },
+    "layout": "podcast",
+    "link": "http://connectthedots.podbean.com/e/connect-the-dots-environmental-coverage-in-the-media-092414/",
+    "podcast": {
+      "developer-note": "",
+      "length": "1:00:01",
+      "note": "",
+      "size": 21606480,
+      "type": "audio/mpeg",
+      "url": "http://connectthedots.podbean.com/mf/feed/852waz/ConnectTheDots_092414.mp3"
+    },
+    "show": {
+      "category": [
+        "Health",
+        "Alternative Health"
+      ],
+      "image": {
+        "height": 144,
+        "url": "http://imglogo.podbean.com/image-logo/324701/Alison_Rose_Levy_AlbumArt.jpg",
+        "width": 144
+      },
+      "owner": {
+        "email": "karalee@garynull.com",
+        "name": "Progressive Radio Network"
+      },
+      "published": {
+        "string": "Thu, 26 Feb 2015 18:29:44 +0000",
+        "timestamp": "1424993384"
+      },
+      "subtitle": "Connect the Dots promotes health activism, linking personal health to the health of our culture, society, and environment.",
+      "title": "Connect The Dots"
+    },
+    "tags": [
+      "Health",
+      "Alternative Health",
+      "connect-the-dots"
+    ],
+    "title": "Environmental Coverage in the Media"
+  },
+  "title": "Environmental Coverage in the Media",
+  "date": "2014-09-24 00:00:00 -0400",
+  "categories": [
+    "connect-the-dots"
+  ],
+  "content": "<p>Betsy Rosenberg, radio journalist, environmental advocate, and host of the Green Front on PRN discussing how the media<span class=\"ellipsis\">…</span>\n<!--more-->\ncovers- and fails to cover- environmental issues.\n<br /></p>\n"
+}

@@ -1,0 +1,50 @@
+{
+  "header": {
+    "category": "progressive-commentary-hour",
+    "image": {
+      "type": "image",
+      "url": "http://progressivecommentaryhour.podbean.com/mf/web/6pt8zm/GaryNull-PCH_AlbumArt.jpg"
+    },
+    "layout": "podcast",
+    "link": "http://progressivecommentaryhour.podbean.com/e/progressive-commentary-hour-susan-lindauer-091012/",
+    "podcast": {
+      "developer-note": "",
+      "length": "54:37",
+      "note": "",
+      "size": 13111066,
+      "type": "audio/mpeg",
+      "url": "http://progressivecommentaryhour.podbean.com/mf/feed/jcapvs/PCH091012Susan.mp3"
+    },
+    "show": {
+      "category": [
+        "News & Politics"
+      ],
+      "image": {
+        "height": 144,
+        "url": "http://imglogo.podbean.com/image-logo/371244/GaryNull-PCH_AlbumArt.jpg",
+        "width": 144
+      },
+      "owner": {
+        "email": "karalee@garynull.com",
+        "name": "Progressive Radio Network"
+      },
+      "published": {
+        "string": "Wed, 25 Feb 2015 20:55:24 +0000",
+        "timestamp": "1424915724"
+      },
+      "subtitle": "Gary Null discusses progressive issues with some of the most remarkable minds in the world.",
+      "title": "Progressive Commentary Hour"
+    },
+    "tags": [
+      "News & Politics",
+      "progressive-commentary-hour"
+    ],
+    "title": "Susan Lindauer"
+  },
+  "title": "Susan Lindauer",
+  "date": "2012-09-11 00:00:00 -0400",
+  "categories": [
+    "progressive-commentary-hour"
+  ],
+  "content": "<p>911 report with Susan Lindauer, former US intelligence asset who gave advance warning about the 911 attacks.\n<!--more--></p>\n"
+}

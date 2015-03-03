@@ -1,0 +1,50 @@
+{
+  "header": {
+    "category": "all-together-now",
+    "image": {
+      "type": "image",
+      "url": "http://img.podbean.com/podbean-logo/powered_by_podbean.jpg"
+    },
+    "layout": "podcast",
+    "link": "http://alltogethernow.podbean.com/e/all-together-now-ecology-and-religion-042414/",
+    "podcast": {
+      "developer-note": "",
+      "length": "54:42",
+      "note": "",
+      "size": 13129665,
+      "type": "audio/mpeg",
+      "url": "http://alltogethernow.podbean.com/mf/feed/kg2qth/ATN_0422414.mp3"
+    },
+    "show": {
+      "category": [
+        "News & Politics"
+      ],
+      "image": {
+        "height": 144,
+        "url": "http://img.podbean.com/podbean-logo/powered_by_podbean_800x800.jpg",
+        "width": 144
+      },
+      "owner": {
+        "email": "karalee@garynull.com",
+        "name": "Progressive Radio Network"
+      },
+      "published": {
+        "string": "Fri, 13 Feb 2015 20:17:54 +0000",
+        "timestamp": "1423876674"
+      },
+      "subtitle": "Charlene Spretnak and her guests track the progress of the “Big Make-over,” the cultural and political Relational Shift that is occurring in all fields as a result of recent discoveries that life is far more dynamically interrelated than modern societies have realized.",
+      "title": "All Together Now"
+    },
+    "tags": [
+      "News & Politics",
+      "all-together-now"
+    ],
+    "title": "Ecology and Religion"
+  },
+  "title": "Ecology and Religion",
+  "date": "2014-04-24 00:00:00 -0400",
+  "categories": [
+    "all-together-now"
+  ],
+  "content": "<p>Charlene Spretnak speaks with John Grim, coauthor of a new book, Ecology and Religion; Earth Day program; poem by Marya<span class=\"ellipsis\">…</span>\n<!--more-->\nGrathwohl\n<br /></p>\n"
+}

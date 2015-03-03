@@ -1,0 +1,52 @@
+{
+  "header": {
+    "category": "talk-back-with-gary-null",
+    "image": {
+      "type": "",
+      "url": ""
+    },
+    "layout": "podcast",
+    "link": "http://talkback.podbean.com/e/talk-back-w-gary-null/",
+    "podcast": {
+      "developer-note": "",
+      "length": "45:18",
+      "note": "",
+      "size": 10889856,
+      "type": "audio/mpeg",
+      "url": "http://talkback.podbean.com/mf/feed/5rswbr/TalkBack071711.mp3"
+    },
+    "show": {
+      "category": [
+        "Health",
+        "Fitness & Nutrition"
+      ],
+      "image": {
+        "height": 144,
+        "url": "http://imglogo.podbean.com/image-logo/277825/GaryNull-talkback_AlbumArt.jpg",
+        "width": 144
+      },
+      "owner": {
+        "email": "karalee@garynull.com",
+        "name": "Progressive Radio Network"
+      },
+      "published": {
+        "string": "Mon, 15 Sep 2014 01:00:00 +0000",
+        "timestamp": "1410760800"
+      },
+      "subtitle": "Gary Null takes your calls on health and politics.",
+      "title": "Talk Back with Gary Null"
+    },
+    "tags": [
+      "Health",
+      "Fitness & Nutrition",
+      "talk-back-with-gary-null"
+    ],
+    "title": "Talk Back w/ Gary Null"
+  },
+  "title": "Talk Back w/ Gary Null",
+  "date": "2011-07-17 00:00:00 -0400",
+  "categories": [
+    "talk-back-with-gary-null"
+  ],
+  "content": "<h3 id=\"missing-content\">Missing Content</h3>\n<!--more-->\n"
+}

@@ -1,0 +1,50 @@
+{
+  "header": {
+    "category": "economic-update",
+    "image": {
+      "type": "",
+      "url": ""
+    },
+    "layout": "podcast",
+    "link": "http://economicupdate.podbean.com/e/economic-update-why-economics-are-so-poorly-understood-101514/",
+    "podcast": {
+      "developer-note": "",
+      "length": "58:3",
+      "note": "",
+      "size": 21060680,
+      "type": "audio/mpeg",
+      "url": "http://economicupdate.podbean.com/mf/feed/ctiw5a/EconUpdate_101514.mp3"
+    },
+    "show": {
+      "category": [
+        "News & Politics"
+      ],
+      "image": {
+        "height": 144,
+        "url": "http://imglogo.podbean.com/image-logo/594561/Richard-Wolff-Album-Art.jpg",
+        "width": 144
+      },
+      "owner": {
+        "email": "jtaubenfeld@garynull.com",
+        "name": ""
+      },
+      "published": {
+        "string": "Sun, 01 Mar 2015 21:00:00 +0000",
+        "timestamp": "1425261600"
+      },
+      "subtitle": "New podcast weblog",
+      "title": "Economic Update"
+    },
+    "tags": [
+      "News & Politics",
+      "economic-update"
+    ],
+    "title": "Why Economics Are So Poorly Understood"
+  },
+  "title": "Why Economics Are So Poorly Understood",
+  "date": "2014-10-15 00:00:00 -0400",
+  "categories": [
+    "economic-update"
+  ],
+  "content": "<p>Updates on GM recalls, Cuba’s investment in medical training, Germany’s end all tuition requirements.\n<!--more-->\nMajor discussions of why economics education so poor and report from Santa Fe movement for public banking. <br />\nResponse to listeners on why no recovery from the crisis and how to think about transition to worker coop based economy.\n<br /></p>\n"
+}

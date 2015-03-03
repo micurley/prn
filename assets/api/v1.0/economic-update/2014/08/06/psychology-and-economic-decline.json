@@ -1,0 +1,50 @@
+{
+  "header": {
+    "category": "economic-update",
+    "image": {
+      "type": "",
+      "url": ""
+    },
+    "layout": "podcast",
+    "link": "http://economicupdate.podbean.com/e/economic-update-psychology-and-economic-decline-080614/",
+    "podcast": {
+      "developer-note": "",
+      "length": "58:3",
+      "note": "",
+      "size": 21060680,
+      "type": "audio/mpeg",
+      "url": "http://economicupdate.podbean.com/mf/feed/ypt2nz/Econ_Update_080614.mp3"
+    },
+    "show": {
+      "category": [
+        "News & Politics"
+      ],
+      "image": {
+        "height": 144,
+        "url": "http://imglogo.podbean.com/image-logo/594561/Richard-Wolff-Album-Art.jpg",
+        "width": 144
+      },
+      "owner": {
+        "email": "jtaubenfeld@garynull.com",
+        "name": ""
+      },
+      "published": {
+        "string": "Sun, 01 Mar 2015 21:00:00 +0000",
+        "timestamp": "1425261600"
+      },
+      "subtitle": "New podcast weblog",
+      "title": "Economic Update"
+    },
+    "tags": [
+      "News & Politics",
+      "economic-update"
+    ],
+    "title": "Psychology and Economic Decline"
+  },
+  "title": "Psychology and Economic Decline",
+  "date": "2014-08-06 00:00:00 -0400",
+  "categories": [
+    "economic-update"
+  ],
+  "content": "<p>Updates on fast food workers, GDP data, Salt Lake City dailies, bathroom breaks.\n<!--more-->\nInterview with Dr Harriet Fraad, mental health counsellor. <br />\nReplies on FDR vs Obama and on how to counter corporate threats.<br /></p>\n"
+}

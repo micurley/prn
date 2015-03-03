@@ -1,0 +1,50 @@
+{
+  "header": {
+    "category": "the-news-dissector",
+    "image": {
+      "type": "",
+      "url": ""
+    },
+    "layout": "podcast",
+    "link": "http://thenewsdissector.podbean.com/e/the-news-dissector/",
+    "podcast": {
+      "developer-note": "",
+      "length": "55:15",
+      "note": "",
+      "size": 13262544,
+      "type": "audio/mpeg",
+      "url": "http://thenewsdissector.podbean.com/mf/feed/ku3cmk/NewsDissector090211.mp3"
+    },
+    "show": {
+      "category": [
+        "News & Politics"
+      ],
+      "image": {
+        "height": 144,
+        "url": "http://thenewsdissector.podbean.com/feed/h",
+        "width": 144
+      },
+      "owner": {
+        "email": "h",
+        "name": "h"
+      },
+      "published": {
+        "string": "Fri, 19 Sep 2014 16:24:15 +0000",
+        "timestamp": "1411161855"
+      },
+      "subtitle": "h",
+      "title": "The News Dissector"
+    },
+    "tags": [
+      "News & Politics",
+      "the-news-dissector"
+    ],
+    "title": "The News Dissector"
+  },
+  "title": "The News Dissector",
+  "date": "2011-09-02 00:00:00 -0400",
+  "categories": [
+    "the-news-dissector"
+  ],
+  "content": "<p>Guests Max Keiser and Stacy Hubert, financial analysts and broadcasters, and Nancy Gertner, former federal judge.</p>\n\n<!--more-->\n"
+}

@@ -1,0 +1,50 @@
+{
+  "header": {
+    "category": "the-news-dissector",
+    "image": {
+      "type": "",
+      "url": ""
+    },
+    "layout": "podcast",
+    "link": "http://thenewsdissector.podbean.com/e/news-dissector-andrew-tyndall-061214/",
+    "podcast": {
+      "developer-note": "",
+      "length": "52:48",
+      "note": "",
+      "size": 12673672,
+      "type": "audio/mpeg",
+      "url": "http://thenewsdissector.podbean.com/mf/feed/75grfu/NewsDissector_061214.mp3"
+    },
+    "show": {
+      "category": [
+        "News & Politics"
+      ],
+      "image": {
+        "height": 144,
+        "url": "http://thenewsdissector.podbean.com/feed/h",
+        "width": 144
+      },
+      "owner": {
+        "email": "h",
+        "name": "h"
+      },
+      "published": {
+        "string": "Fri, 19 Sep 2014 16:24:15 +0000",
+        "timestamp": "1411161855"
+      },
+      "subtitle": "h",
+      "title": "The News Dissector"
+    },
+    "tags": [
+      "News & Politics",
+      "the-news-dissector"
+    ],
+    "title": "Andrew Tyndall"
+  },
+  "title": "Andrew Tyndall",
+  "date": "2014-06-12 00:00:00 -0400",
+  "categories": [
+    "the-news-dissector"
+  ],
+  "content": "<p>The preeminent media monitor Andrew Tyndall, editor of the Tyndall Report that monitors network news in an<span class=\"ellipsis\">…</span>\n<!--more-->\nauthoritative way and has done so for decades. \n<br /></p>\n"
+}

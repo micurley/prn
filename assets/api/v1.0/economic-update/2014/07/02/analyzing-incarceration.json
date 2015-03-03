@@ -1,0 +1,50 @@
+{
+  "header": {
+    "category": "economic-update",
+    "image": {
+      "type": "image",
+      "url": "http://imglogo.podbean.com/image-logo/594561/Richard-Wolff-Album-Art.jpg"
+    },
+    "layout": "podcast",
+    "link": "http://economicupdate.podbean.com/e/economic-update-analyzing-incarceration-070214/",
+    "podcast": {
+      "developer-note": "",
+      "length": "58:3",
+      "note": "",
+      "size": 14040481,
+      "type": "audio/mpeg",
+      "url": "http://economicupdate.podbean.com/mf/feed/igxuea/EconUpdate_070214.mp3"
+    },
+    "show": {
+      "category": [
+        "News & Politics"
+      ],
+      "image": {
+        "height": 144,
+        "url": "http://imglogo.podbean.com/image-logo/594561/Richard-Wolff-Album-Art.jpg",
+        "width": 144
+      },
+      "owner": {
+        "email": "jtaubenfeld@garynull.com",
+        "name": ""
+      },
+      "published": {
+        "string": "Sun, 01 Mar 2015 21:00:00 +0000",
+        "timestamp": "1425261600"
+      },
+      "subtitle": "New podcast weblog",
+      "title": "Economic Update"
+    },
+    "tags": [
+      "News & Politics",
+      "economic-update"
+    ],
+    "title": "Analyzing Incarceration"
+  },
+  "title": "Analyzing Incarceration",
+  "date": "2014-07-02 00:00:00 -0400",
+  "categories": [
+    "economic-update"
+  ],
+  "content": "<p>Updates on health economics, Mississippi political lessons, and whats wrong with a Harvard economist.\n<!--more-->\nInterview with Victor Wallis, on economics and politics of US prisons. <br />\nResponse to questions about: gender wage gap, real estate bubbles, and the “ultra richer” except in Latin America\n<br /></p>\n"
+}

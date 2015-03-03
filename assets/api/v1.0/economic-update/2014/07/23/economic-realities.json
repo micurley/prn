@@ -1,0 +1,50 @@
+{
+  "header": {
+    "category": "economic-update",
+    "image": {
+      "type": "image",
+      "url": "http://imglogo.podbean.com/image-logo/594561/Richard-Wolff-Album-Art.jpg"
+    },
+    "layout": "podcast",
+    "link": "http://economicupdate.podbean.com/e/economic-update-economic-realities-072314/",
+    "podcast": {
+      "developer-note": "",
+      "length": "58:3",
+      "note": "",
+      "size": 21060680,
+      "type": "audio/mpeg",
+      "url": "http://economicupdate.podbean.com/mf/feed/gipr84/EconUpdate_072314.mp3"
+    },
+    "show": {
+      "category": [
+        "News & Politics"
+      ],
+      "image": {
+        "height": 144,
+        "url": "http://imglogo.podbean.com/image-logo/594561/Richard-Wolff-Album-Art.jpg",
+        "width": 144
+      },
+      "owner": {
+        "email": "jtaubenfeld@garynull.com",
+        "name": ""
+      },
+      "published": {
+        "string": "Sun, 01 Mar 2015 21:00:00 +0000",
+        "timestamp": "1425261600"
+      },
+      "subtitle": "New podcast weblog",
+      "title": "Economic Update"
+    },
+    "tags": [
+      "News & Politics",
+      "economic-update"
+    ],
+    "title": "Economic Realities"
+  },
+  "title": "Economic Realities",
+  "date": "2014-07-23 00:00:00 -0400",
+  "categories": [
+    "economic-update"
+  ],
+  "content": "<p>Updates on big bank fines, Tracy Morgan sues Walmart, highway trust and taxes, extreme wealth inequality in the<span class=\"ellipsis\">…</span>\n<!--more-->\nHamptons. <br />\nMajor discussions of workers self-directed enterprises and Oxfam’s data on extreme global wealth inequality. <br />\nResponse to listeners on relation of wages to prices and on economic “value” of solar, wind and green energy vs coal, oil, gas and nuclear.\n<br /></p>\n"
+}

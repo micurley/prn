@@ -1,0 +1,52 @@
+{
+  "header": {
+    "category": "connect-the-dots",
+    "image": {
+      "type": "",
+      "url": ""
+    },
+    "layout": "podcast",
+    "link": "http://connectthedots.podbean.com/e/connect-the-dots-100213/",
+    "podcast": {
+      "developer-note": "",
+      "length": "55:1",
+      "note": "",
+      "size": 13240738,
+      "type": "audio/mpeg",
+      "url": "http://connectthedots.podbean.com/mf/feed/p6ae2q/ConnectTheDots100213.mp3"
+    },
+    "show": {
+      "category": [
+        "Health",
+        "Alternative Health"
+      ],
+      "image": {
+        "height": 144,
+        "url": "http://imglogo.podbean.com/image-logo/324701/Alison_Rose_Levy_AlbumArt.jpg",
+        "width": 144
+      },
+      "owner": {
+        "email": "karalee@garynull.com",
+        "name": "Progressive Radio Network"
+      },
+      "published": {
+        "string": "Thu, 26 Feb 2015 18:29:44 +0000",
+        "timestamp": "1424993384"
+      },
+      "subtitle": "Connect the Dots promotes health activism, linking personal health to the health of our culture, society, and environment.",
+      "title": "Connect The Dots"
+    },
+    "tags": [
+      "Health",
+      "Alternative Health",
+      "connect-the-dots"
+    ],
+    "title": "Connect The Dots"
+  },
+  "title": "Connect The Dots",
+  "date": "2013-10-02 00:00:00 -0400",
+  "categories": [
+    "connect-the-dots"
+  ],
+  "content": "<p>With guest Dr. Asoka Bandarage, the author of “Sustainability And Well-Being, The Middle Path to Environment, Society<span class=\"ellipsis\">…</span>\n<!--more-->\nand the Economy.”\n<br /></p>\n"
+}

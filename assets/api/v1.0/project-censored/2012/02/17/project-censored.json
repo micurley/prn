@@ -1,0 +1,50 @@
+{
+  "header": {
+    "category": "project-censored",
+    "image": {
+      "type": "",
+      "url": ""
+    },
+    "layout": "podcast",
+    "link": "http://projectcensored.podbean.com/e/project-censored/",
+    "podcast": {
+      "developer-note": "",
+      "length": "44:58",
+      "note": "",
+      "size": 10795536,
+      "type": "audio/mpeg",
+      "url": "http://projectcensored.podbean.com/mf/feed/xdsfnq/ProjectCensored010612.mp3"
+    },
+    "show": {
+      "category": [
+        "News & Politics"
+      ],
+      "image": {
+        "height": 144,
+        "url": "http://imglogo.podbean.com/image-logo/405745/Project-Censored-AlbumArt.jpg",
+        "width": 144
+      },
+      "owner": {
+        "email": "karalee@garynull.com",
+        "name": "Progressive Radio Network"
+      },
+      "published": {
+        "string": "Tue, 24 Feb 2015 18:40:50 +0000",
+        "timestamp": "1424821250"
+      },
+      "subtitle": "Mickey Huff is co-host of the Project Censored Show with former Project Censored director Dr. Peter Phillips. It airs on the progressiveradionetwork.com out of New York City",
+      "title": "Project Censored"
+    },
+    "tags": [
+      "News & Politics",
+      "project-censored"
+    ],
+    "title": "Project Censored"
+  },
+  "title": "Project Censored",
+  "date": "2012-02-17 00:00:00 -0500",
+  "categories": [
+    "project-censored"
+  ],
+  "content": "<p>REPEAT PROGRAM - 1/6/12</p>\n\n<!--more-->\n"
+}

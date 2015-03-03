@@ -1,0 +1,50 @@
+{
+  "header": {
+    "category": "the-news-dissector",
+    "image": {
+      "type": "",
+      "url": ""
+    },
+    "layout": "podcast",
+    "link": "http://thenewsdissector.podbean.com/e/news-dissector-pete-020614/",
+    "podcast": {
+      "developer-note": "",
+      "length": "59:1",
+      "note": "",
+      "size": 14202530,
+      "type": "audio/mpeg",
+      "url": "http://thenewsdissector.podbean.com/mf/feed/d3uga3/NewsDissector020614.mp3"
+    },
+    "show": {
+      "category": [
+        "News & Politics"
+      ],
+      "image": {
+        "height": 144,
+        "url": "http://thenewsdissector.podbean.com/feed/h",
+        "width": 144
+      },
+      "owner": {
+        "email": "h",
+        "name": "h"
+      },
+      "published": {
+        "string": "Fri, 19 Sep 2014 16:24:15 +0000",
+        "timestamp": "1411161855"
+      },
+      "subtitle": "h",
+      "title": "The News Dissector"
+    },
+    "tags": [
+      "News & Politics",
+      "the-news-dissector"
+    ],
+    "title": "Pete"
+  },
+  "title": "Pete",
+  "date": "2014-02-06 00:00:00 -0500",
+  "categories": [
+    "the-news-dissector"
+  ],
+  "content": "<p>The passing of Pete Seeger, his music, legacy and his impact on American culture\nThere are no guests.\n<!--more-->\nIn both segments Danny and Polar will discuss Seeger and play a number of his songs.\n<br /></p>\n"
+}

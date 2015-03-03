@@ -1,0 +1,52 @@
+{
+  "header": {
+    "category": "connect-the-dots",
+    "image": {
+      "type": "",
+      "url": ""
+    },
+    "layout": "podcast",
+    "link": "http://connectthedots.podbean.com/e/connect-the-dots/",
+    "podcast": {
+      "developer-note": "",
+      "length": "50:26",
+      "note": "",
+      "size": 12105360,
+      "type": "audio/mpeg",
+      "url": "http://connectthedots.podbean.com/mf/feed/e9f72/ConnectTheDots110911.mp3"
+    },
+    "show": {
+      "category": [
+        "Health",
+        "Alternative Health"
+      ],
+      "image": {
+        "height": 144,
+        "url": "http://imglogo.podbean.com/image-logo/324701/Alison_Rose_Levy_AlbumArt.jpg",
+        "width": 144
+      },
+      "owner": {
+        "email": "karalee@garynull.com",
+        "name": "Progressive Radio Network"
+      },
+      "published": {
+        "string": "Thu, 26 Feb 2015 18:29:44 +0000",
+        "timestamp": "1424993384"
+      },
+      "subtitle": "Connect the Dots promotes health activism, linking personal health to the health of our culture, society, and environment.",
+      "title": "Connect The Dots"
+    },
+    "tags": [
+      "Health",
+      "Alternative Health",
+      "connect-the-dots"
+    ],
+    "title": "Connect The Dots"
+  },
+  "title": "Connect The Dots",
+  "date": "2011-11-12 00:00:00 -0500",
+  "categories": [
+    "connect-the-dots"
+  ],
+  "content": "<p>On today’s Connect the Dots at Noon ET, Alison Rose Levy will speak with Dr.\n<!--more-->\nRiki Ott, PhD, marine biologist, who has followed the health impacts of the Gulf Oil spill into the communities affected.\n<br /></p>\n"
+}

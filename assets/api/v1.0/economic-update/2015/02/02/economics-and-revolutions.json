@@ -1,0 +1,50 @@
+{
+  "header": {
+    "category": "economic-update",
+    "image": {
+      "type": "",
+      "url": ""
+    },
+    "layout": "podcast",
+    "link": "http://economicupdate.podbean.com/e/economics-and-revolutions-020115/",
+    "podcast": {
+      "developer-note": "",
+      "length": "58:3",
+      "note": "",
+      "size": 21060680,
+      "type": "audio/mpeg",
+      "url": "http://economicupdate.podbean.com/mf/feed/pivf7a/EconUpdate020115.mp3"
+    },
+    "show": {
+      "category": [
+        "News & Politics"
+      ],
+      "image": {
+        "height": 144,
+        "url": "http://imglogo.podbean.com/image-logo/594561/Richard-Wolff-Album-Art.jpg",
+        "width": 144
+      },
+      "owner": {
+        "email": "jtaubenfeld@garynull.com",
+        "name": ""
+      },
+      "published": {
+        "string": "Sun, 01 Mar 2015 21:00:00 +0000",
+        "timestamp": "1425261600"
+      },
+      "subtitle": "New podcast weblog",
+      "title": "Economic Update"
+    },
+    "tags": [
+      "News & Politics",
+      "economic-update"
+    ],
+    "title": "Economics and Revolutions"
+  },
+  "title": "Economics and Revolutions",
+  "date": "2015-02-02 00:00:00 -0500",
+  "categories": [
+    "economic-update"
+  ],
+  "content": "<p>Updates on political corruption, Greek election results, social security taxes, debt jubilee, union membership and<span class=\"ellipsis\">…</span>\n<!--more-->\nrevolutions’ lessons.\n<br /></p>\n"
+}

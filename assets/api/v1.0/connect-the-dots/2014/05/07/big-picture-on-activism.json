@@ -1,0 +1,52 @@
+{
+  "header": {
+    "category": "connect-the-dots",
+    "image": {
+      "type": "image",
+      "url": "http://imglogo.podbean.com/image-logo/324701/Alison_Rose_Levy_AlbumArt.jpg"
+    },
+    "layout": "podcast",
+    "link": "http://connectthedots.podbean.com/e/connect-the-dots-big-picture-on-activism-050714/",
+    "podcast": {
+      "developer-note": "",
+      "length": "56:41",
+      "note": "",
+      "size": 13607497,
+      "type": "audio/mpeg",
+      "url": "http://connectthedots.podbean.com/mf/feed/78aype/ConnectTheDots_050614.mp3"
+    },
+    "show": {
+      "category": [
+        "Health",
+        "Alternative Health"
+      ],
+      "image": {
+        "height": 144,
+        "url": "http://imglogo.podbean.com/image-logo/324701/Alison_Rose_Levy_AlbumArt.jpg",
+        "width": 144
+      },
+      "owner": {
+        "email": "karalee@garynull.com",
+        "name": "Progressive Radio Network"
+      },
+      "published": {
+        "string": "Thu, 26 Feb 2015 18:29:44 +0000",
+        "timestamp": "1424993384"
+      },
+      "subtitle": "Connect the Dots promotes health activism, linking personal health to the health of our culture, society, and environment.",
+      "title": "Connect The Dots"
+    },
+    "tags": [
+      "Health",
+      "Alternative Health",
+      "connect-the-dots"
+    ],
+    "title": "Big Picture on Activism"
+  },
+  "title": "Big Picture on Activism",
+  "date": "2014-05-07 00:00:00 -0400",
+  "categories": [
+    "connect-the-dots"
+  ],
+  "content": "<p>Interview with Jeanne Marie Dauray, National Issue Teams Coordinator for Progressive Democrats of America, to discuss<span class=\"ellipsis\">…</span>\n<!--more-->\nPDA, its history and current initiatives on Net Neutrality, equal rights for women, and school desegregation.\n<br /></p>\n"
+}

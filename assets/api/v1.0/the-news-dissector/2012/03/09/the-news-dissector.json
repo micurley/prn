@@ -1,0 +1,50 @@
+{
+  "header": {
+    "category": "the-news-dissector",
+    "image": {
+      "type": "",
+      "url": ""
+    },
+    "layout": "podcast",
+    "link": "http://thenewsdissector.podbean.com/e/the-news-dissector-030912/",
+    "podcast": {
+      "developer-note": "",
+      "length": "54:1",
+      "note": "",
+      "size": 13002642,
+      "type": "audio/mpeg",
+      "url": "http://thenewsdissector.podbean.com/mf/feed/ap9ifc/NewsDissector030912.mp3"
+    },
+    "show": {
+      "category": [
+        "News & Politics"
+      ],
+      "image": {
+        "height": 144,
+        "url": "http://thenewsdissector.podbean.com/feed/h",
+        "width": 144
+      },
+      "owner": {
+        "email": "h",
+        "name": "h"
+      },
+      "published": {
+        "string": "Fri, 19 Sep 2014 16:24:15 +0000",
+        "timestamp": "1411161855"
+      },
+      "subtitle": "h",
+      "title": "The News Dissector"
+    },
+    "tags": [
+      "News & Politics",
+      "the-news-dissector"
+    ],
+    "title": "The News Dissector"
+  },
+  "title": "The News Dissector",
+  "date": "2012-03-09 00:00:00 -0500",
+  "categories": [
+    "the-news-dissector"
+  ],
+  "content": "<p>Preview of new RadiOWS program, produced by Polarity1 and an OWS working group,  and discussion of recent Occupy Wall<span class=\"ellipsis\">…</span>\n<!--more-->\nStreet developments with Occupy activist Cat Watters.\n<br />\nSecond half hour: “Occupy The Kremlin”–discussion of developments in Russia with Professor David Kotz of the University of Massachusetts, co-author of “From Gorbachev to Putin” and a pre-recorded interview with Boris Kagarlitsky, Director of the Institute for Globalization and Social Movements in Moscow.\n<br /></p>\n"
+}

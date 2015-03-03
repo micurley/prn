@@ -1,0 +1,50 @@
+{
+  "header": {
+    "category": "economic-update",
+    "image": {
+      "type": "image",
+      "url": "http://economicupdate.podbean.com/mf/web/iyxjm5/Richard-Wolff-Album-Art.jpg"
+    },
+    "layout": "podcast",
+    "link": "http://economicupdate.podbean.com/e/economic-update-012814/",
+    "podcast": {
+      "developer-note": "",
+      "length": "58:3",
+      "note": "",
+      "size": 14040481,
+      "type": "audio/mpeg",
+      "url": "http://economicupdate.podbean.com/mf/feed/mgtsq9/EconUpdate_012814.mp3"
+    },
+    "show": {
+      "category": [
+        "News & Politics"
+      ],
+      "image": {
+        "height": 144,
+        "url": "http://imglogo.podbean.com/image-logo/594561/Richard-Wolff-Album-Art.jpg",
+        "width": 144
+      },
+      "owner": {
+        "email": "jtaubenfeld@garynull.com",
+        "name": ""
+      },
+      "published": {
+        "string": "Sun, 01 Mar 2015 21:00:00 +0000",
+        "timestamp": "1425261600"
+      },
+      "subtitle": "New podcast weblog",
+      "title": "Economic Update"
+    },
+    "tags": [
+      "News & Politics",
+      "economic-update"
+    ],
+    "title": "What’s Wrong with Markets"
+  },
+  "title": "What’s Wrong with Markets",
+  "date": "2014-01-29 00:00:00 -0500",
+  "categories": [
+    "economic-update"
+  ],
+  "content": "<p>Updates on Memphis workers locked out; problems of on-line education; capitalism, wealth inequality, and Starbucks; and<span class=\"ellipsis\">…</span>\n<!--more-->\nGallup on Americans’ dissatisfied with their economy. <br />\nMajor discussions of (1) unemployment and politics and (2) organizing a market in human kidneys and markets in general. <br />\nResponse to question on Europe’s economic crisis and its links to Europe’s generous state services and safety nets.\n<br /></p>\n"
+}

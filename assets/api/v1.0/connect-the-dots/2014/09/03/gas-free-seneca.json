@@ -1,0 +1,52 @@
+{
+  "header": {
+    "category": "connect-the-dots",
+    "image": {
+      "type": "",
+      "url": ""
+    },
+    "layout": "podcast",
+    "link": "http://connectthedots.podbean.com/e/connect-the-dots-gas-free-seneca-090314/",
+    "podcast": {
+      "developer-note": "",
+      "length": "55:44",
+      "note": "",
+      "size": 20064672,
+      "type": "audio/mpeg",
+      "url": "http://connectthedots.podbean.com/mf/feed/vwupm3/ConnectTheDots_090314.mp3"
+    },
+    "show": {
+      "category": [
+        "Health",
+        "Alternative Health"
+      ],
+      "image": {
+        "height": 144,
+        "url": "http://imglogo.podbean.com/image-logo/324701/Alison_Rose_Levy_AlbumArt.jpg",
+        "width": 144
+      },
+      "owner": {
+        "email": "karalee@garynull.com",
+        "name": "Progressive Radio Network"
+      },
+      "published": {
+        "string": "Thu, 26 Feb 2015 18:29:44 +0000",
+        "timestamp": "1424993384"
+      },
+      "subtitle": "Connect the Dots promotes health activism, linking personal health to the health of our culture, society, and environment.",
+      "title": "Connect The Dots"
+    },
+    "tags": [
+      "Health",
+      "Alternative Health",
+      "connect-the-dots"
+    ],
+    "title": "Gas Free Seneca"
+  },
+  "title": "Gas Free Seneca",
+  "date": "2014-09-03 00:00:00 -0400",
+  "categories": [
+    "connect-the-dots"
+  ],
+  "content": "<p>Listen to Dr.\n<!--more-->\nJoseph Campbell as he recounts citizen efforts to save a lake region from becoming a hub for liquified gas on Connect the Dots\n<br /></p>\n"
+}

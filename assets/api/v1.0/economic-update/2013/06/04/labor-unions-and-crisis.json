@@ -1,0 +1,50 @@
+{
+  "header": {
+    "category": "economic-update",
+    "image": {
+      "type": "image",
+      "url": "http://economicupdate.podbean.com/mf/web/iyxjm5/Richard-Wolff-Album-Art.jpg"
+    },
+    "layout": "podcast",
+    "link": "http://economicupdate.podbean.com/e/economic-update-labor-unions-and-crisis-060413/",
+    "podcast": {
+      "developer-note": "",
+      "length": "58:3",
+      "note": "",
+      "size": 14042210,
+      "type": "audio/mpeg",
+      "url": "http://economicupdate.podbean.com/mf/feed/wexubf/EconUpdate053113.mp3"
+    },
+    "show": {
+      "category": [
+        "News & Politics"
+      ],
+      "image": {
+        "height": 144,
+        "url": "http://imglogo.podbean.com/image-logo/594561/Richard-Wolff-Album-Art.jpg",
+        "width": 144
+      },
+      "owner": {
+        "email": "jtaubenfeld@garynull.com",
+        "name": ""
+      },
+      "published": {
+        "string": "Sun, 01 Mar 2015 21:00:00 +0000",
+        "timestamp": "1425261600"
+      },
+      "subtitle": "New podcast weblog",
+      "title": "Economic Update"
+    },
+    "tags": [
+      "News & Politics",
+      "economic-update"
+    ],
+    "title": "Labor, Unions and Crisis"
+  },
+  "title": "Labor, Unions and Crisis",
+  "date": "2013-06-04 00:00:00 -0400",
+  "categories": [
+    "economic-update"
+  ],
+  "content": "<p>Updates on corporate globalization, Philly schools, paid vacation law(?), the “Cadillac Tax.\n<!--more-->\nInterview with Stanley Aronowitz on labor, unions and the left. <br />\nResponses to listeners on higher ed economics and US income inequality\n<br /></p>\n"
+}

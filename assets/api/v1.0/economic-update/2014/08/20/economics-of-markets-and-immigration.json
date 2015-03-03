@@ -1,0 +1,50 @@
+{
+  "header": {
+    "category": "economic-update",
+    "image": {
+      "type": "",
+      "url": ""
+    },
+    "layout": "podcast",
+    "link": "http://economicupdate.podbean.com/e/economic-update-economics-of-markets-and-immigration-082014/",
+    "podcast": {
+      "developer-note": "",
+      "length": "",
+      "note": "",
+      "size": 1000,
+      "type": "audio/mpeg",
+      "url": "http://www.podbean.com/empty/Econ_Update_082014.mp3"
+    },
+    "show": {
+      "category": [
+        "News & Politics"
+      ],
+      "image": {
+        "height": 144,
+        "url": "http://imglogo.podbean.com/image-logo/594561/Richard-Wolff-Album-Art.jpg",
+        "width": 144
+      },
+      "owner": {
+        "email": "jtaubenfeld@garynull.com",
+        "name": ""
+      },
+      "published": {
+        "string": "Sun, 01 Mar 2015 21:00:00 +0000",
+        "timestamp": "1425261600"
+      },
+      "subtitle": "New podcast weblog",
+      "title": "Economic Update"
+    },
+    "tags": [
+      "News & Politics",
+      "economic-update"
+    ],
+    "title": "Economics of Markets and Immigration"
+  },
+  "title": "Economics of Markets and Immigration",
+  "date": "2014-08-20 00:00:00 -0400",
+  "categories": [
+    "economic-update"
+  ],
+  "content": "<p>Updates on drop in most American households’ wealth, 2003-2013, social security finances more about wages than aging.\n<!--more-->\nMajor discussions on (1) critical economics of markets, (2) political economy of immigration, and (3) capitalism’s two great contradictions. <br />\nResponse to listeners on worker coop incubators and fund-raising by the Clintons.\n<br /></p>\n"
+}

@@ -1,0 +1,50 @@
+{
+  "header": {
+    "category": "the-news-dissector",
+    "image": {
+      "type": "",
+      "url": ""
+    },
+    "layout": "podcast",
+    "link": "http://thenewsdissector.podbean.com/e/the-news-dissector-011713/",
+    "podcast": {
+      "developer-note": "",
+      "length": "54:4",
+      "note": "",
+      "size": 13121097,
+      "type": "audio/mpeg",
+      "url": "http://thenewsdissector.podbean.com/mf/feed/avx78q/NewsDissector011713.mp3"
+    },
+    "show": {
+      "category": [
+        "News & Politics"
+      ],
+      "image": {
+        "height": 144,
+        "url": "http://thenewsdissector.podbean.com/feed/h",
+        "width": 144
+      },
+      "owner": {
+        "email": "h",
+        "name": "h"
+      },
+      "published": {
+        "string": "Fri, 19 Sep 2014 16:24:15 +0000",
+        "timestamp": "1411161855"
+      },
+      "subtitle": "h",
+      "title": "The News Dissector"
+    },
+    "tags": [
+      "News & Politics",
+      "the-news-dissector"
+    ],
+    "title": "The News Dissector"
+  },
+  "title": "The News Dissector",
+  "date": "2013-01-17 00:00:00 -0500",
+  "categories": [
+    "the-news-dissector"
+  ],
+  "content": "<p>Mark Karlin in Chicago, Commentator for Buzzflash, part of the Truth-Out Network</p>\n\n<!--more-->\n"
+}
