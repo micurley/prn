@@ -20,6 +20,8 @@
       template: '#search-results-template'  // selector for Mustache.js template
     });
 
+    $("<div id='search-clear' style='display:none;line-height: 20px;color:red;cursor: pointer;'>X</div>").insertAfter('#search-query');
+
     $('#search-query').bind('input', function() {
         current_val = $(this).val();
         if(current_val.length > 3){
