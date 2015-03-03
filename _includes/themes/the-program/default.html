@@ -39,7 +39,32 @@
         <div class="unit-body">
             <div class="unit-inner unit-body-inner">
                 <div class="entry-content">
-                    {{ content }}
+                    <section id="search-results" style="display: none;">
+                        <article class="unit-article layout-page">
+                            <div class="unit-inner unit-article-inner">
+                                <div class="content">
+                                    <header>
+                                        <div class="unit-head">
+                                            <div class="unit-inner unit-head-inner">
+                                                <h1 class="h2 entry-title">Search Results</h1>
+                                            </div><!-- unit-inner -->
+                                        </div><!-- unit-head -->
+                                    </header>
+
+                                    <div class="bd">
+                                        <div class="entry-content">
+                                        <h2>All Results</h2>
+                                        <ul class="entries"></ul>
+
+                                        </div><!-- entry-content -->
+                                    </div><!-- bd -->
+                                </div><!-- content -->
+                            </div><!-- unit-inner -->
+                        </article>
+                    </section>
+                    <section id="non-search-content">
+                        {{ content }}
+                    <section>
                 </div>
             </div><!-- unit-inner -->
         </div><!-- unit-body -->
