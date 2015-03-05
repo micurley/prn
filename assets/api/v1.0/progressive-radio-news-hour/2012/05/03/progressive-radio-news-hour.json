@@ -1,0 +1,50 @@
+{
+  "header": {
+    "category": "progressive-radio-news-hour",
+    "image": {
+      "type": "",
+      "url": ""
+    },
+    "layout": "podcast",
+    "link": "http://progressiveradionewshour.podbean.com/e/progressive-radio-news-hour-050312/",
+    "podcast": {
+      "developer-note": "",
+      "length": "28:11",
+      "note": "",
+      "size": 6764565,
+      "type": "audio/mpeg",
+      "url": "http://progressiveradionewshour.podbean.com/mf/feed/gwpscf/PRNH_Lendman050312.mp3"
+    },
+    "show": {
+      "category": [
+        "News & Politics"
+      ],
+      "image": {
+        "height": 144,
+        "url": "http://progressiveradionewshour.podbean.com/feed/h",
+        "width": 144
+      },
+      "owner": {
+        "email": "h",
+        "name": "h"
+      },
+      "published": {
+        "string": "Sun, 22 Feb 2015 23:43:00 +0000",
+        "timestamp": "1424666580"
+      },
+      "subtitle": "h",
+      "title": "Progressive Radio News Hour"
+    },
+    "tags": [
+      "News & Politics",
+      "progressive-radio-news-hour"
+    ],
+    "title": "Progressive Radio News Hour"
+  },
+  "title": "Progressive Radio News Hour",
+  "date": "2012-05-03 00:00:00 -0400",
+  "categories": [
+    "progressive-radio-news-hour"
+  ],
+  "content": "<p>Ann Wright, Former US Army colonel/State Department diplomat became an outspoken critic of America’s imperial wars.\n<!--more-->\nAs a result, she resigned in protest against Iraq’s 2003 invasion.\n<br />\nMajor world and national issues will be discussed.\n<br /></p>\n"
+}

@@ -1,0 +1,50 @@
+{
+  "header": {
+    "category": "progressive-radio-news-hour",
+    "image": {
+      "type": "",
+      "url": ""
+    },
+    "layout": "podcast",
+    "link": "http://progressiveradionewshour.podbean.com/e/progressive-radio-news-hour-andy-roth-111012/",
+    "podcast": {
+      "developer-note": "",
+      "length": "59:36",
+      "note": "",
+      "size": 14306638,
+      "type": "audio/mpeg",
+      "url": "http://progressiveradionewshour.podbean.com/mf/feed/fw8fcz/Lendman111012.mp3"
+    },
+    "show": {
+      "category": [
+        "News & Politics"
+      ],
+      "image": {
+        "height": 144,
+        "url": "http://progressiveradionewshour.podbean.com/feed/h",
+        "width": 144
+      },
+      "owner": {
+        "email": "h",
+        "name": "h"
+      },
+      "published": {
+        "string": "Sun, 22 Feb 2015 23:43:00 +0000",
+        "timestamp": "1424666580"
+      },
+      "subtitle": "h",
+      "title": "Progressive Radio News Hour"
+    },
+    "tags": [
+      "News & Politics",
+      "progressive-radio-news-hour"
+    ],
+    "title": "Andy Roth"
+  },
+  "title": "Andy Roth",
+  "date": "2012-11-10 00:00:00 -0500",
+  "categories": [
+    "progressive-radio-news-hour"
+  ],
+  "content": "<p>Andy Roth is Professor of Sociology at Sonoma State University, CA. He’s also Associate Director of Project Censored.\n<!--more-->\nHis research explores how journalistic conventions shape news content and coverage of environmental issues. <br />\nMajor world and national issues will be discussed.\n<br /></p>\n"
+}

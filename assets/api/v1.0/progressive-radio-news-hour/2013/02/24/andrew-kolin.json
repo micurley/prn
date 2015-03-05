@@ -1,0 +1,50 @@
+{
+  "header": {
+    "category": "progressive-radio-news-hour",
+    "image": {
+      "type": "",
+      "url": ""
+    },
+    "layout": "podcast",
+    "link": "http://progressiveradionewshour.podbean.com/e/progressive-radio-news-hour-andrew-kolin-022413/",
+    "podcast": {
+      "developer-note": "",
+      "length": "53:51",
+      "note": "",
+      "size": 12924552,
+      "type": "audio/mpeg",
+      "url": "http://progressiveradionewshour.podbean.com/mf/feed/kf9g5/Lendman022413.mp3"
+    },
+    "show": {
+      "category": [
+        "News & Politics"
+      ],
+      "image": {
+        "height": 144,
+        "url": "http://progressiveradionewshour.podbean.com/feed/h",
+        "width": 144
+      },
+      "owner": {
+        "email": "h",
+        "name": "h"
+      },
+      "published": {
+        "string": "Sun, 22 Feb 2015 23:43:00 +0000",
+        "timestamp": "1424666580"
+      },
+      "subtitle": "h",
+      "title": "Progressive Radio News Hour"
+    },
+    "tags": [
+      "News & Politics",
+      "progressive-radio-news-hour"
+    ],
+    "title": "Andrew Kolin"
+  },
+  "title": "Andrew Kolin",
+  "date": "2013-02-24 00:00:00 -0500",
+  "categories": [
+    "progressive-radio-news-hour"
+  ],
+  "content": "<p>Kolin is Professor of Political Science at Hilbert College.\n<!--more-->\nHis books include “State Power and Democracy,” “State Structure and Genocide,” and “State Power and Democracy.<br />\n” It discusses his thesis that America is now a police state.\n<br />\nMajor world and national issues will be discussed.<br /></p>\n"
+}

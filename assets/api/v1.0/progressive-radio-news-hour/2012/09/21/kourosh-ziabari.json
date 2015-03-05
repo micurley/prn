@@ -1,0 +1,50 @@
+{
+  "header": {
+    "category": "progressive-radio-news-hour",
+    "image": {
+      "type": "",
+      "url": ""
+    },
+    "layout": "podcast",
+    "link": "http://progressiveradionewshour.podbean.com/e/progressive-radio-news-hour-kourosh-ziabari-092112/",
+    "podcast": {
+      "developer-note": "",
+      "length": "29:2",
+      "note": "",
+      "size": 7043448,
+      "type": "audio/mpeg",
+      "url": "http://progressiveradionewshour.podbean.com/mf/feed/kvfeuw/Lendman092212.mp3"
+    },
+    "show": {
+      "category": [
+        "News & Politics"
+      ],
+      "image": {
+        "height": 144,
+        "url": "http://progressiveradionewshour.podbean.com/feed/h",
+        "width": 144
+      },
+      "owner": {
+        "email": "h",
+        "name": "h"
+      },
+      "published": {
+        "string": "Sun, 22 Feb 2015 23:43:00 +0000",
+        "timestamp": "1424666580"
+      },
+      "subtitle": "h",
+      "title": "Progressive Radio News Hour"
+    },
+    "tags": [
+      "News & Politics",
+      "progressive-radio-news-hour"
+    ],
+    "title": "Kourosh Ziabari"
+  },
+  "title": "Kourosh Ziabari",
+  "date": "2012-09-21 00:00:00 -0400",
+  "categories": [
+    "progressive-radio-news-hour"
+  ],
+  "content": "<p>Ziabari is an Iranian journalist and World Student Community for Sustainable Development member.\nHis widely published<span class=\"ellipsis\">…</span>\n<!--more-->\narticles, focusing on major world issues, appear regularly in print and online.\n<br />\nDiscussion will focus on Western and Israeli hostility against Iran, perhaps leading to conflict.\n<br /></p>\n"
+}
