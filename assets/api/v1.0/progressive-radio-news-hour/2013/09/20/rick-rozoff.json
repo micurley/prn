@@ -1,0 +1,50 @@
+{
+  "header": {
+    "category": "progressive-radio-news-hour",
+    "image": {
+      "type": "",
+      "url": ""
+    },
+    "layout": "podcast",
+    "link": "http://progressiveradionewshour.podbean.com/e/progressive-radio-news-hour-rick-rozoff-092013/",
+    "podcast": {
+      "developer-note": "",
+      "length": "",
+      "note": "",
+      "size": 7142713,
+      "type": "audio/mpeg",
+      "url": "http://progressiveradionewshour.podbean.com/mf/feed/wppdbu/Lendman092013.mp3"
+    },
+    "show": {
+      "category": [
+        "News & Politics"
+      ],
+      "image": {
+        "height": 144,
+        "url": "http://progressiveradionewshour.podbean.com/feed/h",
+        "width": 144
+      },
+      "owner": {
+        "email": "h",
+        "name": "h"
+      },
+      "published": {
+        "string": "Sun, 22 Feb 2015 23:43:00 +0000",
+        "timestamp": "1424666580"
+      },
+      "subtitle": "h",
+      "title": "Progressive Radio News Hour"
+    },
+    "tags": [
+      "News & Politics",
+      "progressive-radio-news-hour"
+    ],
+    "title": "Rick Rozoff"
+  },
+  "title": "Rick Rozoff",
+  "date": "2013-09-20 00:00:00 -0400",
+  "categories": [
+    "progressive-radio-news-hour"
+  ],
+  "content": "<p>Rozoff’s an activist, anti-war supporter, and editor of the Stop NATO web site.</p>\n\n<p>It “document(s) and oppose(s) global<span class=\"ellipsis\">…</span>\n<!--more-->\nmilitarist trends.” It does so forthrightly. </p>\n\n<p>Major world and national issues will be discussed.<br /></p>\n"
+}

@@ -1,0 +1,50 @@
+{
+  "header": {
+    "category": "progressive-radio-news-hour",
+    "image": {
+      "type": "",
+      "url": ""
+    },
+    "layout": "podcast",
+    "link": "http://progressiveradionewshour.podbean.com/e/progressive-radio-news-hour-francis-boyle-111612/",
+    "podcast": {
+      "developer-note": "",
+      "length": "30:29",
+      "note": "",
+      "size": 7317316,
+      "type": "audio/mpeg",
+      "url": "http://progressiveradionewshour.podbean.com/mf/feed/kh6cu5/Lendman111612.mp3"
+    },
+    "show": {
+      "category": [
+        "News & Politics"
+      ],
+      "image": {
+        "height": 144,
+        "url": "http://progressiveradionewshour.podbean.com/feed/h",
+        "width": 144
+      },
+      "owner": {
+        "email": "h",
+        "name": "h"
+      },
+      "published": {
+        "string": "Sun, 22 Feb 2015 23:43:00 +0000",
+        "timestamp": "1424666580"
+      },
+      "subtitle": "h",
+      "title": "Progressive Radio News Hour"
+    },
+    "tags": [
+      "News & Politics",
+      "progressive-radio-news-hour"
+    ],
+    "title": "Francis Boyle"
+  },
+  "title": "Francis Boyle",
+  "date": "2012-11-16 00:00:00 -0500",
+  "categories": [
+    "progressive-radio-news-hour"
+  ],
+  "content": "<p>Boyle is a distinguished University of Illinois law professor, activist, and internationally recognized expert on<span class=\"ellipsis\">…</span>\n<!--more-->\ninternational law and human rights.\n<br /></p>\n\n<p>His many books include “Palestine, Palestinians and International Law,” “Biowarfare and Terrorism,” and his newest titled, “United Ireland: Human Rights and International Law.”</p>\n\n<p>Major world and national issues will be discussed.<br /></p>\n"
+}

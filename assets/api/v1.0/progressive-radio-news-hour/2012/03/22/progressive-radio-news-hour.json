@@ -1,0 +1,50 @@
+{
+  "header": {
+    "category": "progressive-radio-news-hour",
+    "image": {
+      "type": "",
+      "url": ""
+    },
+    "layout": "podcast",
+    "link": "http://progressiveradionewshour.podbean.com/e/progressive-radio-news-hour-032212/",
+    "podcast": {
+      "developer-note": "",
+      "length": "29:05",
+      "note": "",
+      "size": 6983193,
+      "type": "audio/mpeg",
+      "url": "http://progressiveradionewshour.podbean.com/mf/feed/9j5n4c/PRNH_Lendman032212.mp3"
+    },
+    "show": {
+      "category": [
+        "News & Politics"
+      ],
+      "image": {
+        "height": 144,
+        "url": "http://progressiveradionewshour.podbean.com/feed/h",
+        "width": 144
+      },
+      "owner": {
+        "email": "h",
+        "name": "h"
+      },
+      "published": {
+        "string": "Sun, 22 Feb 2015 23:43:00 +0000",
+        "timestamp": "1424666580"
+      },
+      "subtitle": "h",
+      "title": "Progressive Radio News Hour"
+    },
+    "tags": [
+      "News & Politics",
+      "progressive-radio-news-hour"
+    ],
+    "title": "Progressive Radio News Hour"
+  },
+  "title": "Progressive Radio News Hour",
+  "date": "2012-03-22 00:00:00 -0400",
+  "categories": [
+    "progressive-radio-news-hour"
+  ],
+  "content": "<p>With guest Ralph Poynter, a founding member of the United Federation of Teachers.\n<!--more-->\nFor decades, he’s supported fundamental worker, human and civil rights. <br />\nHe was jailed several times for his activism.<br />\n He’s also Lynne Stewart’s husband. <br />\nHe deplores her lawless imprisonment and campaigns for her freedom. Discussion will focus on Lynne’s struggle for justice.<br /></p>\n"
+}

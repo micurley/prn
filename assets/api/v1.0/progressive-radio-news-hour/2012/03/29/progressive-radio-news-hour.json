@@ -1,0 +1,50 @@
+{
+  "header": {
+    "category": "progressive-radio-news-hour",
+    "image": {
+      "type": "",
+      "url": ""
+    },
+    "layout": "podcast",
+    "link": "http://progressiveradionewshour.podbean.com/e/progressive-radio-news-hour-032912/",
+    "podcast": {
+      "developer-note": "",
+      "length": "30:39",
+      "note": "",
+      "size": 7359142,
+      "type": "audio/mpeg",
+      "url": "http://progressiveradionewshour.podbean.com/mf/feed/bmdxr/PRNH_Lendman032912.mp3"
+    },
+    "show": {
+      "category": [
+        "News & Politics"
+      ],
+      "image": {
+        "height": 144,
+        "url": "http://progressiveradionewshour.podbean.com/feed/h",
+        "width": 144
+      },
+      "owner": {
+        "email": "h",
+        "name": "h"
+      },
+      "published": {
+        "string": "Sun, 22 Feb 2015 23:43:00 +0000",
+        "timestamp": "1424666580"
+      },
+      "subtitle": "h",
+      "title": "Progressive Radio News Hour"
+    },
+    "tags": [
+      "News & Politics",
+      "progressive-radio-news-hour"
+    ],
+    "title": "Progressive Radio News Hour"
+  },
+  "title": "Progressive Radio News Hour",
+  "date": "2012-03-29 00:00:00 -0400",
+  "categories": [
+    "progressive-radio-news-hour"
+  ],
+  "content": "<p>Lance deHaven-Smith is a Florida State University School of Public Administration Professor.\n<!--more-->\nHe’s also written, co-written, or edited 15 books on religion and political philosophy, as well as Florida government and politics. Major world and national issues will be discussed<br /></p>\n"
+}

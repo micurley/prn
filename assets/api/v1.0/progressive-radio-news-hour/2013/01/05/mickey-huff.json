@@ -1,0 +1,50 @@
+{
+  "header": {
+    "category": "progressive-radio-news-hour",
+    "image": {
+      "type": "",
+      "url": ""
+    },
+    "layout": "podcast",
+    "link": "http://progressiveradionewshour.podbean.com/e/progressive-radio-news-hour-mickey-huff-010313/",
+    "podcast": {
+      "developer-note": "",
+      "length": "57:11",
+      "note": "",
+      "size": 13724421,
+      "type": "audio/mpeg",
+      "url": "http://progressiveradionewshour.podbean.com/mf/feed/ixy2p3/Lendman010513.mp3"
+    },
+    "show": {
+      "category": [
+        "News & Politics"
+      ],
+      "image": {
+        "height": 144,
+        "url": "http://progressiveradionewshour.podbean.com/feed/h",
+        "width": 144
+      },
+      "owner": {
+        "email": "h",
+        "name": "h"
+      },
+      "published": {
+        "string": "Sun, 22 Feb 2015 23:43:00 +0000",
+        "timestamp": "1424666580"
+      },
+      "subtitle": "h",
+      "title": "Progressive Radio News Hour"
+    },
+    "tags": [
+      "News & Politics",
+      "progressive-radio-news-hour"
+    ],
+    "title": "Mickey Huff"
+  },
+  "title": "Mickey Huff",
+  "date": "2013-01-05 00:00:00 -0500",
+  "categories": [
+    "progressive-radio-news-hour"
+  ],
+  "content": "<p>Mickey Huff is a California-based Professor of History at Diablo Valley College.\n<!--more-->\nHe’s Director of Project Censored (PC) and the Media Freedom Foundation.\n<br />\nCensored 2013 and other major world and national issues will be discussed.\n<br /></p>\n"
+}
