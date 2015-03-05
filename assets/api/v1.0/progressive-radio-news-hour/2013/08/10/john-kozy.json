@@ -46,5 +46,5 @@
   "categories": [
     "progressive-radio-news-hour"
   ],
-  "content": "<p>John Kozy is a retired philosophy professor, now writing on social, political and economic issues.\n<!--more-->\nHe taught for many years and has been writing for many more.\n<br />\nKozy’s latest writing will be discussed.<br /></p>\n"
+  "content": "<p>John Kozy is a retired philosophy professor, now writing on social, political and economic issues.\n&lt;!--more--&gt;\nHe taught for many years and has been writing for many more.\n<br />\nKozy’s latest writing will be discussed.<br /></p>\n"
 }

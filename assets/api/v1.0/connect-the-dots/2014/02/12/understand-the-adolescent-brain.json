@@ -48,5 +48,5 @@
   "categories": [
     "connect-the-dots"
   ],
-  "content": "<p>Daniel J.\n<!--more-->\nSiegel, MD, the author of Brainstorm: The Power and Purpose of the Teenage Brain in conversation with Alison Rose Levy.\n<br /></p>\n"
+  "content": "<p>Daniel J.\n&lt;!--more--&gt;\nSiegel, MD, the author of Brainstorm: The Power and Purpose of the Teenage Brain in conversation with Alison Rose Levy.\n<br /></p>\n"
 }

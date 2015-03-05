@@ -46,5 +46,5 @@
   "categories": [
     "the-news-dissector"
   ],
-  "content": "<p>The preeminent media monitor Andrew Tyndall, editor of the Tyndall Report that monitors network news in an<span class=\"ellipsis\">…</span>\n<!--more-->\nauthoritative way and has done so for decades. \n<br /></p>\n"
+  "content": "<p>The preeminent media monitor Andrew Tyndall, editor of the Tyndall Report that monitors network news in an<span class=\"ellipsis\">...</span>\n&lt;!--more--&gt;\nauthoritative way and has done so for decades. \n<br /></p>\n"
 }

@@ -46,5 +46,5 @@
   "categories": [
     "progressive-radio-news-hour"
   ],
-  "content": "<p>Guest: Bob Chapman\nFor over 50 years, Chapman has written on business, economics and politics, now doing it twice<span class=\"ellipsis\">…</span>\n<!--more-->\nweekly as owner and editor of the International Forecaster. <br />\nIt’s a vital resource for information ignored by the mainstream.\n<br />\nHis latest views on the economy will be discussed.\n<br /></p>\n"
+  "content": "<p>Guest: Bob Chapman\nFor over 50 years, Chapman has written on business, economics and politics, now doing it twice<span class=\"ellipsis\">...</span>\n&lt;!--more--&gt;\nweekly as owner and editor of the International Forecaster. <br />\nIt’s a vital resource for information ignored by the mainstream.\n<br />\nHis latest views on the economy will be discussed.\n<br /></p>\n"
 }

@@ -46,5 +46,5 @@
   "categories": [
     "the-news-dissector"
   ],
-  "content": "<p>Fred Branfman’s writing has been published in the New York Times, the Washington Post, the New Republic, and other<span class=\"ellipsis\">…</span>\n<!--more-->\npublications. <br />\nHe is the author of several books on the Indochina War.\n<br /></p>\n"
+  "content": "<p>Fred Branfman’s writing has been published in the New York Times, the Washington Post, the New Republic, and other<span class=\"ellipsis\">...</span>\n&lt;!--more--&gt;\npublications. <br />\nHe is the author of several books on the Indochina War.\n<br /></p>\n"
 }

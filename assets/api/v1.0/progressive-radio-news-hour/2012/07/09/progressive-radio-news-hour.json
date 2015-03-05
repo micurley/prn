@@ -46,5 +46,5 @@
   "categories": [
     "progressive-radio-news-hour"
   ],
-  "content": "<p>Webster Tarpley</p>\n\n<p>Tarpley is an author, journalist, lecturer, and outspoken critic of US foreign and domestic<span class=\"ellipsis\">…</span>\n<!--more-->\npolicy.\n<br /></p>\n\n<p>Major world and national issues will be discussed.<br /></p>\n"
+  "content": "<p>Webster Tarpley</p>\n\n<p>Tarpley is an author, journalist, lecturer, and outspoken critic of US foreign and domestic<span class=\"ellipsis\">...</span>\n&lt;!--more--&gt;\npolicy.\n<br /></p>\n\n<p>Major world and national issues will be discussed.<br /></p>\n"
 }

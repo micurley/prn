@@ -46,5 +46,5 @@
   "categories": [
     "progressive-radio-news-hour"
   ],
-  "content": "<p>Marjorie Cohn is a distinguished Law Professor at Thomas Jefferson School of Law, San Diego, and past president of the<span class=\"ellipsis\">…</span>\n<!--more-->\nNational Lawyers Guild. <br />\nShe’s also been a criminal defense attorney at the trial and appellate levels, is a noted author, and has written many articles for professional journals and popular web sites.\n<br /></p>\n"
+  "content": "<p>Marjorie Cohn is a distinguished Law Professor at Thomas Jefferson School of Law, San Diego, and past president of the<span class=\"ellipsis\">...</span>\n&lt;!--more--&gt;\nNational Lawyers Guild. <br />\nShe’s also been a criminal defense attorney at the trial and appellate levels, is a noted author, and has written many articles for professional journals and popular web sites.\n<br /></p>\n"
 }

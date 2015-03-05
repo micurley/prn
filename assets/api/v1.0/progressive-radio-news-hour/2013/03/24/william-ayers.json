@@ -46,5 +46,5 @@
   "categories": [
     "progressive-radio-news-hour"
   ],
-  "content": "<p>Ayers is Distinguished University of Chicago (retired) Professor of Education and Senior University Scholar.\nHe founded<span class=\"ellipsis\">…</span>\n<!--more-->\nthe Small Schools Workshop and Center for Youth and Society.\n<br />\nHe’s a longtime social justice advocate. <br />\nDiscussion will focus on major world and national issues.\n<br /></p>\n"
+  "content": "<p>Ayers is Distinguished University of Chicago (retired) Professor of Education and Senior University Scholar.\nHe founded<span class=\"ellipsis\">...</span>\n&lt;!--more--&gt;\nthe Small Schools Workshop and Center for Youth and Society.\n<br />\nHe’s a longtime social justice advocate. <br />\nDiscussion will focus on major world and national issues.\n<br /></p>\n"
 }

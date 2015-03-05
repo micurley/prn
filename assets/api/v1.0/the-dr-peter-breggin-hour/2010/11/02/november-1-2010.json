@@ -48,5 +48,5 @@
   "categories": [
     "the-dr-peter-breggin-hour"
   ],
-  "content": "<p>Today’s guest is Brian Kean, PhD, professor of education at Southern Cross University in Australia.  Dr.\n<!--more-->\nBreggin and Dr Kean describe why parents, educators and healthcare providers should avoid using diagnoses like ADHD and stop using medications to treat this mythical disorder. <br />\n Then they talk about the real needs of children and how they can be fulfilled in a rational and caring manner.<br /></p>\n"
+  "content": "<p>Today’s guest is Brian Kean, PhD, professor of education at Southern Cross University in Australia.  Dr.\n&lt;!--more--&gt;\nBreggin and Dr Kean describe why parents, educators and healthcare providers should avoid using diagnoses like ADHD and stop using medications to treat this mythical disorder. <br />\n Then they talk about the real needs of children and how they can be fulfilled in a rational and caring manner.<br /></p>\n"
 }

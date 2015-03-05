@@ -46,5 +46,5 @@
   "categories": [
     "the-news-dissector"
   ],
-  "content": "<p>First guest is Bryson Hull, Managing Editor of the Who What Where website Author of new piece critiquing media role in<span class=\"ellipsis\">…</span>\n<!--more-->\nbeheading of US freelancer in Syria.<br />\n Second guest is musician Nenad Bach on Musicians as journalists—A new movie about him premiered last night and showed him as a human rights musician using music to alert audiences to social issues and media concerns.\n<br /></p>\n"
+  "content": "<p>First guest is Bryson Hull, Managing Editor of the Who What Where website Author of new piece critiquing media role in<span class=\"ellipsis\">...</span>\n&lt;!--more--&gt;\nbeheading of US freelancer in Syria.<br />\n Second guest is musician Nenad Bach on Musicians as journalists—A new movie about him premiered last night and showed him as a human rights musician using music to alert audiences to social issues and media concerns.\n<br /></p>\n"
 }

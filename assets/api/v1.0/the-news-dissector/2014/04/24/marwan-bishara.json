@@ -46,5 +46,5 @@
   "categories": [
     "the-news-dissector"
   ],
-  "content": "<p>Will be interviewing guest Marwan Bishara of Al Jazeera.\n<!--more-->\nTopics such Al Jazeera’s media approach and the overall media will be discussed.\n<br /></p>\n"
+  "content": "<p>Will be interviewing guest Marwan Bishara of Al Jazeera.\n&lt;!--more--&gt;\nTopics such Al Jazeera’s media approach and the overall media will be discussed.\n<br /></p>\n"
 }

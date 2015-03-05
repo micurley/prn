@@ -46,5 +46,5 @@
   "categories": [
     "progressive-radio-news-hour"
   ],
-  "content": "<p>McGovern is a retired CIA officer (1963 - 1990), turned activist and political critic.  He addresses major world and<span class=\"ellipsis\">…</span>\n<!--more-->\nnational issues in lectures and frequent articles.\n<br />\nMajor world and national issues will be discussed.<br /></p>\n"
+  "content": "<p>McGovern is a retired CIA officer (1963 - 1990), turned activist and political critic.  He addresses major world and<span class=\"ellipsis\">...</span>\n&lt;!--more--&gt;\nnational issues in lectures and frequent articles.\n<br />\nMajor world and national issues will be discussed.<br /></p>\n"
 }

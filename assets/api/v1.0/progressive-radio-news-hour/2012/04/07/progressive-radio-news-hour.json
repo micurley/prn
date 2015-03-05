@@ -46,5 +46,5 @@
   "categories": [
     "progressive-radio-news-hour"
   ],
-  "content": "<p>Guest:  Adrian Salbuchi \nSalbuchi is a researcher, author, journalist, speaker, and international consultant on<span class=\"ellipsis\">…</span>\n<!--more-->\npolitical and public risk management, having held top management posts in major multinational risk management companies.\n<br />\nMajor world issues will be discussed.<br /></p>\n"
+  "content": "<p>Guest:  Adrian Salbuchi \nSalbuchi is a researcher, author, journalist, speaker, and international consultant on<span class=\"ellipsis\">...</span>\n&lt;!--more--&gt;\npolitical and public risk management, having held top management posts in major multinational risk management companies.\n<br />\nMajor world issues will be discussed.<br /></p>\n"
 }

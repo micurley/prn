@@ -48,5 +48,5 @@
   "categories": [
     "connect-the-dots"
   ],
-  "content": "<p>Listen to Mary Marcus, author of The New Me, a new work of fiction about a healthy show host on Connect the Dots<span class=\"ellipsis\">…</span>\n<!--more-->\nin conversation with Alison Rose Levy.\n<br /></p>\n"
+  "content": "<p>Listen to Mary Marcus, author of The New Me, a new work of fiction about a healthy show host on Connect the Dots<span class=\"ellipsis\">...</span>\n&lt;!--more--&gt;\nin conversation with Alison Rose Levy.\n<br /></p>\n"
 }

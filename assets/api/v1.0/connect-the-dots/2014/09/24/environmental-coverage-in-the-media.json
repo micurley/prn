@@ -48,5 +48,5 @@
   "categories": [
     "connect-the-dots"
   ],
-  "content": "<p>Betsy Rosenberg, radio journalist, environmental advocate, and host of the Green Front on PRN discussing how the media<span class=\"ellipsis\">…</span>\n<!--more-->\ncovers- and fails to cover- environmental issues.\n<br /></p>\n"
+  "content": "<p>Betsy Rosenberg, radio journalist, environmental advocate, and host of the Green Front on PRN discussing how the media<span class=\"ellipsis\">...</span>\n&lt;!--more--&gt;\ncovers- and fails to cover- environmental issues.\n<br /></p>\n"
 }

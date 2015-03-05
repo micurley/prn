@@ -46,5 +46,5 @@
   "categories": [
     "the-news-dissector"
   ],
-  "content": "<p>First guest, Eric Tait Jr, veteran ABC producer, active member of National Association of Black Journalist with media<span class=\"ellipsis\">…</span>\n<!--more-->\nanalysis show on Manhattan Cable.\n<br /></p>\n\n<p>Second guest  Ed Rampell, progressive film historian, critic and Hollywood-based Commentator on coverage of Deaths of Robin Williams and Lauren Bacall. <br />\n  <br /></p>\n"
+  "content": "<p>First guest, Eric Tait Jr, veteran ABC producer, active member of National Association of Black Journalist with media<span class=\"ellipsis\">...</span>\n&lt;!--more--&gt;\nanalysis show on Manhattan Cable.\n<br /></p>\n\n<p>Second guest  Ed Rampell, progressive film historian, critic and Hollywood-based Commentator on coverage of Deaths of Robin Williams and Lauren Bacall. <br />\n  <br /></p>\n"
 }

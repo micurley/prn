@@ -48,5 +48,5 @@
   "categories": [
     "talk-back-with-gary-null"
   ],
-  "content": "<p>Peaches, plums, nectarines — they’re all great in season\nWild almond tree oil can combat obesity and diabetes\nA special<span class=\"ellipsis\">…</span>\n<!--more-->\ndiscussion based upon the work of Suzanne Humphries, MD, on vaccines\nCalls from listeners\nand more …<br /></p>\n"
+  "content": "<p>Peaches, plums, nectarines — they’re all great in season\nWild almond tree oil can combat obesity and diabetes\nA special<span class=\"ellipsis\">...</span>\n&lt;!--more--&gt;\ndiscussion based upon the work of Suzanne Humphries, MD, on vaccines\nCalls from listeners\nand more …<br /></p>\n"
 }

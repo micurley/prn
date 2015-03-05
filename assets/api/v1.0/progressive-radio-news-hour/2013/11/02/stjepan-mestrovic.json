@@ -46,5 +46,5 @@
   "categories": [
     "progressive-radio-news-hour"
   ],
-  "content": "<p>Mestrovic is Professor of Sociology at Texas A&amp;M University.</p>\n\n<p>His books include “The Good Soldier on Trial: A<span class=\"ellipsis\">…</span>\n<!--more-->\nSociological Study of Misconduct by the US Military Pertaining to Operation Iron Triangle, Iraq.” </p>\n\n<p>Major world and national issues will be discussed.<br /></p>\n"
+  "content": "<p>Mestrovic is Professor of Sociology at Texas A&amp;M University.</p>\n\n<p>His books include “The Good Soldier on Trial: A<span class=\"ellipsis\">...</span>\n&lt;!--more--&gt;\nSociological Study of Misconduct by the US Military Pertaining to Operation Iron Triangle, Iraq.” </p>\n\n<p>Major world and national issues will be discussed.<br /></p>\n"
 }

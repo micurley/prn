@@ -48,5 +48,5 @@
   "categories": [
     "connect-the-dots"
   ],
-  "content": "<p>Today on Connect the Dots Psychologist Fred Erwin, an expert in the impact of community trauma will discuss the range<span class=\"ellipsis\">…</span>\n<!--more-->\nof psychological responses to the recent tragedy. <br />\nJoin us!!\n<br /></p>\n"
+  "content": "<p>Today on Connect the Dots Psychologist Fred Erwin, an expert in the impact of community trauma will discuss the range<span class=\"ellipsis\">...</span>\n&lt;!--more--&gt;\nof psychological responses to the recent tragedy. <br />\nJoin us!!\n<br /></p>\n"
 }

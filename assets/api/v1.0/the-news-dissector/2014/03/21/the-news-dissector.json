@@ -46,5 +46,5 @@
   "categories": [
     "the-news-dissector"
   ],
-  "content": "<p>Today’s Program: Two Leading Media Related interviews</p>\n\n<p>Lewis Lapham, editor of Lapham’s Quarterly\n \nThen, interview<span class=\"ellipsis\">…</span>\n<!--more-->\nwith Dean Starkman, editor of Columbia Journalism Review and author<br /></p>\n"
+  "content": "<p>Today’s Program: Two Leading Media Related interviews</p>\n\n<p>Lewis Lapham, editor of Lapham’s Quarterly\n \nThen, interview<span class=\"ellipsis\">...</span>\n&lt;!--more--&gt;\nwith Dean Starkman, editor of Columbia Journalism Review and author<br /></p>\n"
 }

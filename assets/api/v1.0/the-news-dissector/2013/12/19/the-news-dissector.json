@@ -46,5 +46,5 @@
   "categories": [
     "the-news-dissector"
   ],
-  "content": "<p>Our guest is Norman Solomon.\nThe author of several books on U.S. news media, Solomon is co-founder of RootsAction.org.\n<!--more-->\nHe said today: “This is a test of journalistic integrity that the Washington Post is currently failing. <br />\nFull disclosure is the least that readers of the Post’s coverage of the CIA deserve. <br />\nYet almost every day, the Post is publishing articles that cover the CIA without any indication that the Post’s sole owner is in business with the CIA to the tune of $600 million, while clearly seeking to expand that business relationship even further.”\n <br /></p>\n"
+  "content": "<p>Our guest is Norman Solomon.\nThe author of several books on U.S. news media, Solomon is co-founder of RootsAction.org.\n&lt;!--more--&gt;\nHe said today: “This is a test of journalistic integrity that the Washington Post is currently failing. <br />\nFull disclosure is the least that readers of the Post’s coverage of the CIA deserve. <br />\nYet almost every day, the Post is publishing articles that cover the CIA without any indication that the Post’s sole owner is in business with the CIA to the tune of $600 million, while clearly seeking to expand that business relationship even further.”\n <br /></p>\n"
 }

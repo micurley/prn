@@ -48,5 +48,5 @@
   "categories": [
     "the-dr-peter-breggin-hour"
   ],
-  "content": "<p>My guest, Allison Wilder PhD, is a professor of recreational therapy.  Does that sound fluffy to you? Not so.  Dr.\n<!--more-->\nWilder’s approach epitomizes what’s good in any and all therapeutic approaches. <br />\n Learn about this new field–and the essence of all good human services.<br /></p>\n"
+  "content": "<p>My guest, Allison Wilder PhD, is a professor of recreational therapy.  Does that sound fluffy to you? Not so.  Dr.\n&lt;!--more--&gt;\nWilder’s approach epitomizes what’s good in any and all therapeutic approaches. <br />\n Learn about this new field–and the essence of all good human services.<br /></p>\n"
 }

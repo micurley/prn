@@ -48,5 +48,5 @@
   "categories": [
     "the-dr-peter-breggin-hour"
   ],
-  "content": "<p>My guest Thomas J.\n<!--more-->\nMoore is a premier researcher in drug safety.<br />\n  From NSAIDs to psychiatric drugs, he sharpens our ability to evaluate drug research and alerts us to dangers, including his cutting edge studies of violence caused by prescription drugs. <br /></p>\n\n<p><br /></p>\n"
+  "content": "<p>My guest Thomas J.\n&lt;!--more--&gt;\nMoore is a premier researcher in drug safety.<br />\n  From NSAIDs to psychiatric drugs, he sharpens our ability to evaluate drug research and alerts us to dangers, including his cutting edge studies of violence caused by prescription drugs. <br /></p>\n\n<p><br /></p>\n"
 }

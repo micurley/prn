@@ -46,5 +46,5 @@
   "categories": [
     "progressive-radio-news-hour"
   ],
-  "content": "<p>Guest: Dave Lindorff</p>\n\n<p>Lindorff is an award-winning investigative reporter/journalist.\n<!--more-->\nHe contributes regularly to numerous publications and popular web sites in America and abroad.\n<br /></p>\n\n<p>A prolific author, his books include “The Case for Impeachment: Legal Arguments for Removing George W. <br />\nBush;” “This Can’t Be Happening: Resisting the Disintegration of American Democracy;” and “Marketplace Medicine: The Rise of the For Profit Hospital Chains.”<br /></p>\n"
+  "content": "<p>Guest: Dave Lindorff</p>\n\n<p>Lindorff is an award-winning investigative reporter/journalist.\n&lt;!--more--&gt;\nHe contributes regularly to numerous publications and popular web sites in America and abroad.\n<br /></p>\n\n<p>A prolific author, his books include “The Case for Impeachment: Legal Arguments for Removing George W. <br />\nBush;” “This Can’t Be Happening: Resisting the Disintegration of American Democracy;” and “Marketplace Medicine: The Rise of the For Profit Hospital Chains.”<br /></p>\n"
 }

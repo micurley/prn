@@ -46,5 +46,5 @@
   "categories": [
     "the-news-dissector"
   ],
-  "content": "<p>David Kairys\nRyan Noah Shapiro\n<!--more--></p>\n"
+  "content": "<p>David Kairys\nRyan Noah Shapiro\n&lt;!--more--&gt;</p>\n"
 }

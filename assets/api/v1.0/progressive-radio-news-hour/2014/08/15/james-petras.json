@@ -46,5 +46,5 @@
   "categories": [
     "progressive-radio-news-hour"
   ],
-  "content": "<p>James Petras is Binghamton University, New York Professor Emeritus, a noted figure on the left, a distinguished Latin<span class=\"ellipsis\">…</span>\n<!--more-->\nAmerican expert, and longtime chronicler of the region’s popular struggles.\n<br /></p>\n\n<p>Major world and national issues will be discussed.<br /></p>\n"
+  "content": "<p>James Petras is Binghamton University, New York Professor Emeritus, a noted figure on the left, a distinguished Latin<span class=\"ellipsis\">...</span>\n&lt;!--more--&gt;\nAmerican expert, and longtime chronicler of the region’s popular struggles.\n<br /></p>\n\n<p>Major world and national issues will be discussed.<br /></p>\n"
 }

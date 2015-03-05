@@ -46,5 +46,5 @@
   "categories": [
     "progressive-radio-news-hour"
   ],
-  "content": "<p>Guest:  Ray McGovern\nMcGovern is a retired CIA officer (1963 - 1990), turned activist and political critic, addressing<span class=\"ellipsis\">…</span>\n<!--more-->\nmajor world and national issues in lectures and frequent articles.<br />\n He’s actively participating in Occupy Washington for social justice. <br />\nThat issue will be discussed.<br /></p>\n"
+  "content": "<p>Guest:  Ray McGovern\nMcGovern is a retired CIA officer (1963 - 1990), turned activist and political critic, addressing<span class=\"ellipsis\">...</span>\n&lt;!--more--&gt;\nmajor world and national issues in lectures and frequent articles.<br />\n He’s actively participating in Occupy Washington for social justice. <br />\nThat issue will be discussed.<br /></p>\n"
 }
