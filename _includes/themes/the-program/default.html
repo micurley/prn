@@ -20,11 +20,11 @@
             <div class="unit-inner unit-head-inner">
                 <nav class="nav-global">
                     <ul>
-                        <li class="logo"><a href="/">{{ site.title }}</a></li>
-                        <li class="archive"><a href="/archive.html">archive</a></li>
-                        <li class="page"><a href="/pages.html">pages</a></li>
-                        <li class="category"><a href="/categories.html">categories</a></li>
-                        <li class="tag"><a href="/tags.html">tags</a></li>
+                        <li class="logo"><a href="{{ site.baseurl }}">{{ site.title }}</a></li>
+                        <li class="archive"><a href="{{ site.baseurl }}/archive.html">archive</a></li>
+                        <li class="page"><a href="{{ site.baseurl }}/pages.html">pages</a></li>
+                        <li class="category"><a href="{{ site.baseurl }}/categories.html">categories</a></li>
+                        <li class="tag"><a href="{{ site.baseurl }}/tags.html">tags</a></li>
                         <li class="forkme">
                             <div>
                                 <input type='text' id='search-query' name='search-query' style='float: left;margin-right: 11px;'/>
@@ -82,8 +82,6 @@
                     </ul>
                 </div><!-- misc -->
                 <p class="licence">
-                    Theme: <a href="http://layouts-the.me">the_minimum</a> based on <a href="http://jekyllbootstrap.com/">Jekyll-bootstrap</a>.<br>
-                    Powered by <a href="https://github.com/mojombo/jekyll">Jekyll</a>.
                 </p>
             </div><!-- unit-foot-inner -->
         </div><!-- unit-foot -->
