@@ -71,17 +71,76 @@
     <footer class="the-footer">
         <div class="unit-foot">
             <div class="unit-inner unit-foot-inner">
-                <div class="misc vcard">
-                    <h4>about</h4>
-                    <ul>
-                        <li class="contact"><address><span class="author fn n">{{ site.author.name }}</span> - <span class="fn email">{{ site.author.email }}</span></address></li>
-                        <li class="github"><a href="http://github.com/{{ site.author.github }}/" rel="me">github.com/{{ site.author.github }}</a></li>
-                        <li class="twitter"><a href="http://twitter.com/{{ site.author.twitter }}/" rel="me">twitter.com/{{ site.author.twitter }}</a></li>
-                        <li class="rss"><a href="http://feeds.feedburner.com/{{ site.author.feedname }}">Subscribe to RSS Feed</a></li>
-                    </ul>
-                </div><!-- misc -->
-                <p class="licence">
-                </p>
+                {% if page.show %}
+                    <div class='show-data' style='width:100%;'>
+                        {% if page.show.image.url && page.show.image.url != '' %}
+                            <img src='{{page.show.image.url}}' style='width:100%;' alt='{{page.show.title}} :: {{page.show.subtitle}}'>
+                            {% if page.show.subtitle %}
+                            <blockquote>
+                                {{ page.show.subtitle }}
+                            </blockquote>
+                            {% endif %}
+                        {% endif %}
+                <div class='unit-article'>
+                    <div class="bd">
+                        <div class="entry-content">
+                            <div class="meta">
+                                <ul class="list-category list-linear">
+                                    <li class="list-head">category: </li>
+                                    {% assign categories_list = page.categories %}
+                                    {% include JB/categories_list %}
+                                </ul>
+                                <ul class="list-tag list-linear">
+                                    <li class="list-head">tags: </li>
+                                    {% assign tags_list = page.tags %}
+                                    {% include JB/tags_list %}
+                                </ul>
+                            </div><!-- meta -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+                {% else %}
+                    <div class="misc vcard">
+                        <h4>about</h4>
+                        <ul>
+                            {% assign author = site.data.authors[page.author] %}
+                            {% if author %}
+                            <li class="contact"><address><span class="author fn n">{{ author.name }}</span> (at) <span class="fn email">{{ author.domain }}</span></address></li>
+                            <li class="github"><a href="http://github.com/{{ author.github }}/" rel="me">github.com/{{ author.github }}</a></li>
+                            {% endif %}
+                            <!--
+                            <li class="twitter"><a href="http://twitter.com/{{ site.author.twitter }}/" rel="me">twitter.com/{{ site.author.twitter }}</a></li>
+                            <li class="rss"><a href="http://feeds.feedburner.com/{{ site.author.feedname }}">Subscribe to RSS Feed</a></li>
+                            -->
+                        </ul>
+                    </div><!-- misc -->
+                    <p class="licence">
+                        Theme: <a href="http://layouts-the.me">the_minimum</a> based on <a href="http://jekyllbootstrap.com/">Jekyll-bootstrap</a>.<br>
+                        Powered by <a href="https://github.com/mojombo/jekyll">Jekyll</a>.
+                    </p>
+                {% endif %}
+
+                <div id='live-player'>
+                    <h2>Listen to PRN Live</h2>
+                    <audio id='podcast-audio' controls preload="none" style='width: 70%;margin: 0 15%;'>
+                        <source src="216.55.165.146:8000/listen.pls" type="audio/mpeg-3">
+                        Your browser does not support the audio element.
+                    </audio>
+                    <div style='text-align:center;'>
+                        <a href="http:/216.55.165.146:8000/listen.pls" class="pull-right btn-download">Right Click and 'Save As" to Download</a>
+                    </div>
+
+                    <h2>Listen to KPFA Live</h2>
+                    <audio id='podcast-audio' controls preload="none" style='width: 70%;margin: 0 15%;'>
+                        <source src="http://streams1.kpfa.org:8000/kpfa_64" type="audio/mpeg-3">
+                        Your browser does not support the audio element.
+                    </audio>
+                    <div style='text-align:center;'>
+                        <a href="http://streams1.kpfa.org:8000/kpfa_64" class="pull-right btn-download">Right Click and 'Save As" to Download</a>
+                    </div>
+
+                </div>
             </div><!-- unit-foot-inner -->
         </div><!-- unit-foot -->
     </footer>
