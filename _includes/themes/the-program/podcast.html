@@ -18,9 +18,9 @@
                 <div class="entry-content">
                     <div style='float:left;padding-left:5px;padding-bottom:5px;border:3px solid #666;background-color:#666;overflow:hidden;margin-right: 20px;'>
                     {% if page.image.url != '' %}
-                        <img class="cover" src="{{ page.image.url }}" alt="" style='height:100%;width:100%;margin: auto;margin-left: -2px;margin-top: 2px;'>
-                    {% elsif page.show.image.url %}
-                        <img class="cover" src="{{ page.show.image.url }}" alt="" style='height:100%;width:100%;margin: auto;margin-left: -2px;margin-top: 2px;'>
+                        <img class="cover" src="{{ page.image.url }}" alt="podcast image" style='height:100%;width:100%;margin: auto;margin-left: -2px;margin-top: 2px;'>
+                    {% elsif page.show.image.url != '' %}
+                        <img class="cover" src="{{ page.show.image.url }}" alt="show image" style='height:100%;width:100%;margin: auto;margin-left: -2px;margin-top: 2px;'>
                     {% endif %}
                     </div>
                     <p class="date-publish" style='font-weight:bold;font-style:italic;'>
