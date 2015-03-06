@@ -12,8 +12,7 @@
     <link href="http://feeds.feedburner.com/{{ site.author.feedbaname }}" rel="alternate" title="{{ page.title }}" type="application/atom+xml">
     <script src="http://cdnjs.cloudflare.com/ajax/libs/modernizr/2.0.6/modernizr.min.js"></script>
 </head>
-<body>
-
+<body style='position:relative;'>
 <div id="page" class="hentry">
     <header class="the-header">
         <div class="unit-head">
@@ -105,6 +104,8 @@
 </script>
 
   {% include JB/analytics %}
-<code>Page generated: {{ site.time | date: '%B %d, %Y' }}</code>
+    <div style='position:absolute;bottom:0px;right:0px;'>
+        <code>Page generated: {{ site.time | date: '%B %d, %Y' }}</code>
+    </div>
 </body>
 </html>
