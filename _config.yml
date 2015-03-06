@@ -12,7 +12,7 @@ baseurl: /prn
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : Progressive Radio Network
+title : prn.fm
 tagline: Fallback when (prn.fm)['http://prn.fm'] is down
 author :
   name : Morgan Curley
