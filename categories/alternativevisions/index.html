@@ -23,7 +23,7 @@
     <link href="/assets/themes/bootstrap-3/css/style.css?body=1" rel="stylesheet" type="text/css" media="all">
 
     <!-- Custom styles -->
-    <link href="/assets/css/style.css" rel="stylesheet" type="text/css" media="all">
+    <link href="/prn/assets/css/style.css" rel="stylesheet" type="text/css" media="all">
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -52,6 +52,11 @@
         <!-- Brand and toggle get grouped for better mobile display -->
         <div class="navbar-header">
           <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#jb-navbar-collapse">
+          <form class="navbar-form navbar-right" role="search">
+            <div class="form-group">
+              <input type="text" id='search-query' name='search-query' class="form-control" placeholder="Search">
+            </div>
+          </form>
             <span class="sr-only">Toggle navigation</span>
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
@@ -198,11 +203,6 @@
 
           </ul>
         </div><!-- /.navbar-collapse -->
-          <form class="navbar-form navbar-right" role="search">
-            <div class="form-group">
-              <input type="text" id='search-query' name='search-query' class="form-control" placeholder="Search">
-            </div>
-          </form>
       </nav>
 
       <div class="container">
