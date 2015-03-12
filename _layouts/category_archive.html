@@ -7,7 +7,19 @@ layout: default
   </div>
   <div>
     <ul>
-{{ content }}
+{% for post in page.posts %}
+    <div class='date-tear-sheet'>
+        <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
+            <time datetime="2014-09-20" class="icon">
+              <em>{{ post.date | date: '%A' }}</em>
+              <strong>{{ post.date | date: '%B' }}</strong>
+              <span>{{ post.date | date: '%d' }}</span>
+            </time>
+
+            <div class='date-tear-sheet-title' style='display:none;'>{{ post.title }}</div>
+        </a>
+    </div>
+{% endfor %}
     </ul>
   </div>
 </div>
