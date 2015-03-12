@@ -81,7 +81,7 @@ module Jekyll
 
       if site.config['category_archive'] && site.config['category_archive']['slugify']
         @category_dir_name = Utils.slugify(@category) # require sanitize here
-      else 
+      else
         @category_dir_name = @category
       end
 
@@ -89,7 +89,16 @@ module Jekyll
       self.ext = '.html'
       self.basename = 'index'
       self.content = <<-EOS
-{% for post in page.posts %}<li><a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}"><span>{{ post.title }}<span></a></li>
+{% for post in page.posts %}
+    <li>
+        <time datetime="2014-09-20" class="icon">
+          <em>{{ post.date | date: '%A' }}</em>
+          <strong>{{ post.date | date: '%B' }}</strong>
+          <span>{{ post.date | date: '%d' }}</span>
+        </time>
+
+        <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}"><span>{{ post.title }}<span></a>
+    </li>
 {% endfor %}
       EOS
       self.data = {
