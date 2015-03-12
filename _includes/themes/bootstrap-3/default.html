@@ -17,7 +17,7 @@
     <link href="{{ ASSET_PATH }}/bootstrap/css/bootstrap-theme.min.css" rel="stylesheet">
     <!-- Sticky Footer -->
     <link href="{{ ASSET_PATH }}/bootstrap/css/bs-sticky-footer.css" rel="stylesheet">
-    
+
     <!-- Custom styles -->
     <link href="{{ ASSET_PATH }}/css/style.css?body=1" rel="stylesheet" type="text/css" media="all">
 
@@ -73,17 +73,23 @@
       </nav>
 
       <div class="container">
-        {{ content }}
+        <section id="search-results" style="display: none;">
+            <h1 class="h2 entry-title">Search Results</h1>
+            <h2>All Results</h2>
+            <ul class="entries"></ul>
+        </section>
+        <section id="non-search-content">
+            {{ content }}
+        <section>
       </div>
 
     </div>
 
     <div id="footer">
-      <div class="container">
-        <p>&copy; {{ site.time | date: '%Y' }} {{ site.author.name }}
-          with help from <a href="http://jekyllbootstrap.com" target="_blank" title="The Definitive Jekyll Blogging Framework">Jekyll Bootstrap</a>
-          and <a href="http://twitter.github.com/bootstrap/" target="_blank">Twitter Bootstrap</a>
-        </p>
+      <div class="container" style='position:relative;'>
+        <div style='position:absolute;bottom:0px;right:0px;'>
+            <code>Page generated: {{ site.time | date: '%B %d, %Y' }}</code>
+        </div>
       </div>
     </div>
 

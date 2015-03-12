@@ -18,7 +18,7 @@
     <link href="/assets/themes/bootstrap-3/bootstrap/css/bootstrap-theme.min.css" rel="stylesheet">
     <!-- Sticky Footer -->
     <link href="/assets/themes/bootstrap-3/bootstrap/css/bs-sticky-footer.css" rel="stylesheet">
-    
+
     <!-- Custom styles -->
     <link href="/assets/themes/bootstrap-3/css/style.css?body=1" rel="stylesheet" type="text/css" media="all">
 
@@ -204,7 +204,13 @@
       </nav>
 
       <div class="container">
-        <div class="category-archive">
+        <section id="search-results" style="display: none;">
+            <h1 class="h2 entry-title">Search Results</h1>
+            <h2>All Results</h2>
+            <ul class="entries"></ul>
+        </section>
+        <section id="non-search-content">
+            <div class="category-archive">
   <div>
     <span class="title">Category archive for the-dr-peter-breggin-hour</span>
   </div>
@@ -422,16 +428,16 @@
   </div>
 </div>
 
+        <section>
       </div>
 
     </div>
 
     <div id="footer">
-      <div class="container">
-        <p>&copy; 2015 Morgan Curley
-          with help from <a href="http://jekyllbootstrap.com" target="_blank" title="The Definitive Jekyll Blogging Framework">Jekyll Bootstrap</a>
-          and <a href="http://twitter.github.com/bootstrap/" target="_blank">Twitter Bootstrap</a>
-        </p>
+      <div class="container" style='position:relative;'>
+        <div style='position:absolute;bottom:0px;right:0px;'>
+            <code>Page generated: March 12, 2015</code>
+        </div>
       </div>
     </div>
 
