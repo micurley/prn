@@ -1,0 +1,92 @@
+<style type='text/css'>
+    .ellipsis {
+        display:none;
+    }
+</style>
+<article class="unit-article layout-post">
+    <div class="unit-inner unit-article-inner">
+        <div class="content">
+            <header>
+                <div class="unit-head">
+                    <div class="unit-inner unit-head-inner">
+                        <h1 class="h2 entry-title">{{ page.title }}</h1>
+                    </div><!-- unit-inner -->
+                </div><!-- unit-head -->
+            </header>
+
+            <div class="bd">
+                <div class="entry-content">
+                    <div style='float:left;padding-left:5px;padding-bottom:5px;border:3px solid #666;background-color:#666;overflow:hidden;margin-right: 20px;'>
+                    {% if page.image.url != '' %}
+                        <img class="cover" src="{{ page.image.url }}" alt="podcast image" style='height:100%;width:100%;margin: auto;margin-left: -2px;margin-top: 2px;'>
+                    {% elsif page.show.image.url != '' %}
+                        <img class="cover" src="{{ page.show.image.url }}" alt="show image" style='height:100%;width:100%;margin: auto;margin-left: -2px;margin-top: 2px;'>
+                    {% endif %}
+                    </div>
+                    <p class="date-publish" style='font-weight:bold;font-style:italic;'>
+                        <date class="date-pub" title="{{ page.date | date_to_xmlschema }}" datetime="{{ page.date | date_to_xmlschema }}" pubdate>
+                        <span class="month"><abbr>{{ page.date | date: '%B' }}</abbr></span>
+                        <span class="day">{{ page.date | date: '%d' }}</span>
+                        <span class="year">{{ page.date | date: '%Y' }}</span>
+                        </date>
+                        {% if page.podcast.length != '' %}
+                            &mdash; Duration: {{ page.podcast.length }}
+                        {% endif %}
+                    </p>
+                    <div class='text-content' style='min-height: 300px;'>
+                        {{ content }}
+                    </div>
+                    <div style='clear:both;'></div>
+                    {% if page.podcast.note != '' %}
+                        <h2>{{ page.podcast.note }}</h2>
+                    {% endif %}
+                    {% if page.podcast.url != '' %}
+                    <div style='width: 100%;border: 20px solid #fafafa;margin-left: -20px;'>
+                        <audio id='podcast-audio' controls preload="none" style='width: 70%;margin: 0 15%;'>
+                            <source src="{{ page.podcast.url }}" type="{{ page.podcast.type }}">
+                            Your browser does not support the audio element.
+                        </audio>
+                        <div style='text-align:center;'>
+                            <a href="{{ page.podcast.url }}" class="pull-right btn-download">Right Click and 'Save As" to Download</a>
+                        </div>
+                    </div>
+                    {% endif %}
+                </div><!-- entry-content -->
+                <div class="misc-content">
+                    <div class="social">
+                    {% if site.safe != false %}
+                        <ul class="list-linear">
+                            <li><div class="twitter-tweet"><a href="https://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-via="{{ site.author.twitter }}" data-lang="en">Tweet</a></div></li>
+                            <li><div class="twitter-follow"><a href="https://twitter.com/{{ site.author.twitter }}" class="twitter-follow-button" data-show-count="false" data-lang="en"></a></div></li>
+                        </ul>
+                    {% endif %}
+                    </div>
+                    <div class="comment">
+                    {% include JB/comments %}
+                    </div>
+                </div><!-- misc-content -->
+            </div><!-- bd -->
+            <footer class="unit-foot">
+                <div class="unit-inner unit-foot-inner">
+                    <nav class="pagination">
+                        <ul>
+                            {% if page.previous %}
+                            <li class="prev"><a class="internal" rel="prev"  href="{{ page.previous.url }}" title="View {{ page.previous.title }}">&laquo; {{ page.previous.title }}</a></li>
+                            {% endif %}
+                            {% if page.previous and page.next %}
+                            <li class="pipe"> | </li>
+                            {% endif %}
+                            {% if page.next %}
+                            <li class="next"><a class="internal" rel="next"  href="{{ page.next.url }}" title="View {{ page.next.title }}">{{ page.next.title }} &raquo;</a></li>
+                            {% endif %}
+                        </ul>
+                    </nav>
+                    <p class="gotop">
+                        <a href="#page">Back to Top</a>
+                    </p>
+                </div>
+            </footer>
+
+        </div><!-- content -->
+    </div><!-- unit-inner -->
+</article>
