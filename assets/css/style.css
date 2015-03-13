@@ -126,3 +126,8 @@ h3.date-tear-sheet-month {
     margin-right:0px;
     margin-left:0px;
 }
+
+.category_list span {
+  vertical-align: super;
+  font-size: 0.8em;
+}
