@@ -28,6 +28,7 @@ module Jekyll
   # Generator class invoked from Jekyll
   class CategoryArchiveGenerator < Generator
     def generate(site)
+      Jekyll.logger.info "Category Pages:", 'Creating category pages...'
       posts_group_by_category(site).each do |category, list|
         site.pages << CategoryArchivePage.new(site, CategoryArchiveUtil.archive_base(site), category, list)
       end

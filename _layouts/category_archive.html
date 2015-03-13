@@ -5,7 +5,6 @@ layout: default
 <div class="category-archive">
   <h2 class="category-archive-title">Category archive for {{ page.category }}</h2>
   <div>
-    <ul>
 {% assign year = page.date | date: '%m%Y' %}
 {% for post in page.posts %}
     {% assign post_date = post.date | date: '%m%Y' %}
@@ -30,6 +29,5 @@ layout: default
         </a>
     </div>
 {% endfor %}
-    </ul>
   </div>
 </div>
