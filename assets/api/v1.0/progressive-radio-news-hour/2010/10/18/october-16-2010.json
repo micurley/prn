@@ -1,0 +1,50 @@
+{
+  "header": {
+    "category": "progressive-radio-news-hour",
+    "image": {
+      "type": "",
+      "url": ""
+    },
+    "layout": "podcast",
+    "link": "http://progressiveradionewshour.podbean.com/e/october-16-2010/",
+    "podcast": {
+      "developer-note": "",
+      "length": "1:01:43",
+      "note": "",
+      "size": 14814864,
+      "type": "audio/mpeg",
+      "url": "http://progressiveradionewshour.podbean.com/mf/feed/caxv7h/ProgRadioNewsHour101610.mp3"
+    },
+    "show": {
+      "category": [
+        "News & Politics"
+      ],
+      "image": {
+        "height": 144,
+        "url": "http://progressiveradionewshour.podbean.com/feed/h",
+        "width": 144
+      },
+      "owner": {
+        "email": "h",
+        "name": "h"
+      },
+      "published": {
+        "string": "Sun, 22 Feb 2015 23:43:00 +0000",
+        "timestamp": "1424666580"
+      },
+      "subtitle": "h",
+      "title": "Progressive Radio News Hour"
+    },
+    "tags": [
+      "News & Politics",
+      "progressive-radio-news-hour"
+    ],
+    "title": "October 16, 2010"
+  },
+  "title": "October 16, 2010",
+  "date": "2010-10-18 00:00:00 -0400",
+  "categories": [
+    "progressive-radio-news-hour"
+  ],
+  "content": "<p>Adrian Salbuchi is a researcher, author, journalist, speaker, and international consultant on political and public risk<span class=\"ellipsis\">...</span>\n&lt;!--more--&gt;\nmanagement, having held top management posts in major multinational risk management companies.\n<br />\nHe’s also familiar with Israel’s reported large land purchase in Patagonia, Argentina, the topic of today’s discussion.\n<br /></p>\n"
+}

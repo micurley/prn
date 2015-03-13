@@ -1,0 +1,50 @@
+{
+  "header": {
+    "category": "progressive-commentary-hour",
+    "image": {
+      "type": "",
+      "url": ""
+    },
+    "layout": "podcast",
+    "link": "http://progressivecommentaryhour.podbean.com/e/progressive-commentary-hour/",
+    "podcast": {
+      "developer-note": "",
+      "length": "54:14",
+      "note": "",
+      "size": 13019472,
+      "type": "audio/mpeg",
+      "url": "http://progressivecommentaryhour.podbean.com/mf/feed/5n2mx/ProgressiveCommentaryHour091211.mp3"
+    },
+    "show": {
+      "category": [
+        "News & Politics"
+      ],
+      "image": {
+        "height": 144,
+        "url": "http://imglogo.podbean.com/image-logo/371244/GaryNull-PCH_AlbumArt.jpg",
+        "width": 144
+      },
+      "owner": {
+        "email": "karalee@garynull.com",
+        "name": "Progressive Radio Network"
+      },
+      "published": {
+        "string": "Wed, 25 Feb 2015 20:55:24 +0000",
+        "timestamp": "1424915724"
+      },
+      "subtitle": "Gary Null discusses progressive issues with some of the most remarkable minds in the world.",
+      "title": "Progressive Commentary Hour"
+    },
+    "tags": [
+      "News & Politics",
+      "progressive-commentary-hour"
+    ],
+    "title": "Progressive Commentary Hour"
+  },
+  "title": "Progressive Commentary Hour",
+  "date": "2011-09-12 00:00:00 -0400",
+  "categories": [
+    "progressive-commentary-hour"
+  ],
+  "content": "<h3>Missing Content</h3>\n\n<!--more-->\n"
+}

@@ -1,0 +1,50 @@
+{
+  "header": {
+    "category": "progressive-radio-news-hour",
+    "image": {
+      "type": "",
+      "url": ""
+    },
+    "layout": "podcast",
+    "link": "http://progressiveradionewshour.podbean.com/e/the-progressive-radio-news-hour/",
+    "podcast": {
+      "developer-note": "",
+      "length": "1:00:59",
+      "note": "",
+      "size": 14637600,
+      "type": "audio/mpeg",
+      "url": "http://progressiveradionewshour.podbean.com/mf/feed/fy734a/Lendman011510.mp3"
+    },
+    "show": {
+      "category": [
+        "News & Politics"
+      ],
+      "image": {
+        "height": 144,
+        "url": "http://progressiveradionewshour.podbean.com/feed/h",
+        "width": 144
+      },
+      "owner": {
+        "email": "h",
+        "name": "h"
+      },
+      "published": {
+        "string": "Sun, 22 Feb 2015 23:43:00 +0000",
+        "timestamp": "1424666580"
+      },
+      "subtitle": "h",
+      "title": "Progressive Radio News Hour"
+    },
+    "tags": [
+      "News & Politics",
+      "progressive-radio-news-hour"
+    ],
+    "title": "Progressive Radio News Hour"
+  },
+  "title": "Progressive Radio News Hour",
+  "date": "2011-01-15 00:00:00 -0500",
+  "categories": [
+    "progressive-radio-news-hour"
+  ],
+  "content": "<p>Husband and wife Mohamed Harkat and Sophie Lamarche jointly pursue justice from a repressive Canadian government, in<span class=\"ellipsis\">...</span>\n&lt;!--more--&gt;\nviolation of its own Charter of Rights and Freedoms, Canada’s bill of rights.\n<br />\nMohamed was falsely charged, interned, and is now under draconian house arrest, facing possible deportation to greater repression abroad.\n<br />\nHis case and status will be discussed.\n<br /></p>\n"
+}

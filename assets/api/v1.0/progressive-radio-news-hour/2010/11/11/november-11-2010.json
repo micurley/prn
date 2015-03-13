@@ -1,0 +1,50 @@
+{
+  "header": {
+    "category": "progressive-radio-news-hour",
+    "image": {
+      "type": "",
+      "url": ""
+    },
+    "layout": "podcast",
+    "link": "http://progressiveradionewshour.podbean.com/e/november-11-2010/",
+    "podcast": {
+      "developer-note": "",
+      "length": "32:35",
+      "note": "",
+      "size": 7822080,
+      "type": "audio/mpeg",
+      "url": "http://progressiveradionewshour.podbean.com/mf/feed/3y44nc/ProgressiveNewsHour111110.mp3"
+    },
+    "show": {
+      "category": [
+        "News & Politics"
+      ],
+      "image": {
+        "height": 144,
+        "url": "http://progressiveradionewshour.podbean.com/feed/h",
+        "width": 144
+      },
+      "owner": {
+        "email": "h",
+        "name": "h"
+      },
+      "published": {
+        "string": "Sun, 22 Feb 2015 23:43:00 +0000",
+        "timestamp": "1424666580"
+      },
+      "subtitle": "h",
+      "title": "Progressive Radio News Hour"
+    },
+    "tags": [
+      "News & Politics",
+      "progressive-radio-news-hour"
+    ],
+    "title": "November 11, 2010"
+  },
+  "title": "November 11, 2010",
+  "date": "2010-11-11 00:00:00 -0500",
+  "categories": [
+    "progressive-radio-news-hour"
+  ],
+  "content": "<h3>Missing Content</h3>\n\n<!--more-->\n"
+}

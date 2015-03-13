@@ -1,0 +1,50 @@
+{
+  "header": {
+    "category": "progressive-commentary-hour",
+    "image": {
+      "type": "",
+      "url": ""
+    },
+    "layout": "podcast",
+    "link": "http://progressivecommentaryhour.podbean.com/e/progressive-commentary-hour/",
+    "podcast": {
+      "developer-note": "",
+      "length": "1:44:48",
+      "note": "",
+      "size": 25154208,
+      "type": "audio/mpeg",
+      "url": "http://progressivecommentaryhour.podbean.com/mf/feed/k4ert8/ProgressiveCommentaryHour081511.mp3"
+    },
+    "show": {
+      "category": [
+        "News & Politics"
+      ],
+      "image": {
+        "height": 144,
+        "url": "http://imglogo.podbean.com/image-logo/371244/GaryNull-PCH_AlbumArt.jpg",
+        "width": 144
+      },
+      "owner": {
+        "email": "karalee@garynull.com",
+        "name": "Progressive Radio Network"
+      },
+      "published": {
+        "string": "Wed, 25 Feb 2015 20:55:24 +0000",
+        "timestamp": "1424915724"
+      },
+      "subtitle": "Gary Null discusses progressive issues with some of the most remarkable minds in the world.",
+      "title": "Progressive Commentary Hour"
+    },
+    "tags": [
+      "News & Politics",
+      "progressive-commentary-hour"
+    ],
+    "title": "Progressive Commentary Hour"
+  },
+  "title": "Progressive Commentary Hour",
+  "date": "2011-08-16 00:00:00 -0400",
+  "categories": [
+    "progressive-commentary-hour"
+  ],
+  "content": "<p>In the Name of Freedom, Peace, and Democracy: Exposing the REAL agenda for intervening in over 100 foreign<span class=\"ellipsis\">...</span>\n&lt;!--more--&gt;\ncountries.\n<br />\nAn original, in-depth investigative report (part 1 of 2).\n<br /></p>\n"
+}

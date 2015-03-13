@@ -1,0 +1,50 @@
+{
+  "header": {
+    "category": "progressive-radio-news-hour",
+    "image": {
+      "type": "",
+      "url": ""
+    },
+    "layout": "podcast",
+    "link": "http://progressiveradionewshour.podbean.com/e/august-14-2010/",
+    "podcast": {
+      "developer-note": "",
+      "length": "1:02:12",
+      "note": "",
+      "size": 14929888,
+      "type": "audio/mpeg",
+      "url": "http://progressiveradionewshour.podbean.com/mf/feed/yyqrhm/ProgRadioNewsHour081410.mp3"
+    },
+    "show": {
+      "category": [
+        "News & Politics"
+      ],
+      "image": {
+        "height": 144,
+        "url": "http://progressiveradionewshour.podbean.com/feed/h",
+        "width": 144
+      },
+      "owner": {
+        "email": "h",
+        "name": "h"
+      },
+      "published": {
+        "string": "Sun, 22 Feb 2015 23:43:00 +0000",
+        "timestamp": "1424666580"
+      },
+      "subtitle": "h",
+      "title": "Progressive Radio News Hour"
+    },
+    "tags": [
+      "News & Politics",
+      "progressive-radio-news-hour"
+    ],
+    "title": "August 14, 2010"
+  },
+  "title": "August 14, 2010",
+  "date": "2010-08-16 00:00:00 -0400",
+  "categories": [
+    "progressive-radio-news-hour"
+  ],
+  "content": "<p>Ellen Brown is a civil litigation attorney, author, and frequent writer on financial issues.\n&lt;!--more--&gt;\nA new edition of her latest book, “Web of Debt,” is an essential analysis of the private banking system, how it usurped money creation power, and how we can take it back.\n<br />\nBrown’s latest writing will be discussed.\n<br /></p>\n"
+}
