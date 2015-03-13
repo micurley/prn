@@ -96,10 +96,6 @@ time.icon:hover, time.icon:focus
     line-height: 7em;
 }
 
-.date-tear-sheet:hover .date-tear-sheet-title{
-    display:block;
-}
-
 .date-tear-sheet-text {
     display: inline-block;
     vertical-align: middle;
