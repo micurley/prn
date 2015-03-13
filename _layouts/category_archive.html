@@ -1,22 +1,32 @@
 ---
 layout: default
 ---
+{% include JB/setup %}
 <div class="category-archive">
-  <div>
-    <span class="title">Category archive for {{ page.category }}</span>
-  </div>
+  <h2 class="category-archive-title">Category archive for {{ page.category }}</h2>
   <div>
     <ul>
+{% assign year = page.date | date: '%m%Y' %}
 {% for post in page.posts %}
+    {% assign post_date = post.date | date: '%m%Y' %}
+    {% if post_date != year %}
+        {% assign year = post.date | date: '%m%Y' %}
+        <h3 class='date-tear-sheet-month'>
+            {{ post.date | date: '%B %Y' }}
+        </h3>
+        <div class='date-tear-sheet-seperator'></div>
+    {% endif %}
     <div class='date-tear-sheet'>
-        <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
-            <time datetime="2014-09-20" class="icon">
+        <a class='date-tear-sheet-url' href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
+            <time datetime="{{ post.date | date: '%Y-%m-%d' }}" class="icon">
               <em>{{ post.date | date: '%A' }}</em>
               <strong>{{ post.date | date: '%B' }}</strong>
               <span>{{ post.date | date: '%d' }}</span>
             </time>
 
-            <div class='date-tear-sheet-title' style='display:none;'>{{ post.title }}</div>
+            <div class="date-tear-sheet-title">
+                <span class="date-tear-sheet-text">{{ post.title }}</span>
+            </div>
         </a>
     </div>
 {% endfor %}
