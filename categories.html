@@ -12,7 +12,7 @@ group: navigation
 </ul>
 -->
 
-{% for category in site.categories %}
+{% for category in site.categories.sort %}
   <h2 class='category-list' id="{{ category[0] }}"><a href='{{ site.baseurl }}/categories/{{ category[0] | join: "/" }}'>{{ category[0] | join: "/" }}</a>&nbsp;<span>{{ category[1].size }}</span></h2>
   <div class='spacer'></div>
 {% endfor %}
