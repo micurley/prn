@@ -6,14 +6,14 @@
       "url": ""
     },
     "layout": "podcast",
-    "link": "http://richardmartinswakeupcall.podbean.com/e/the-future-of-america-012315-1426125817/",
+    "link": "http://richardmartinswakeupcall.podbean.com/e/the-future-of-america-012315-1425964941/",
     "podcast": {
       "developer-note": "",
-      "length": "55:54",
+      "length": "",
       "note": "",
-      "size": 20124332,
+      "size": 1000,
       "type": "audio/mpeg",
-      "url": "http://richardmartinswakeupcall.podbean.com/mf/feed/x6uaey/WakeUpCall_012315.mp3"
+      "url": "http://www.podbean.com/empty/WakeUpCall_012315.mp3"
     },
     "show": {
       "category": [
@@ -29,8 +29,8 @@
         "name": "Richard Martin"
       },
       "published": {
-        "string": "Thu, 12 Mar 2015 02:15:40 +0000",
-        "timestamp": "1426144540"
+        "string": "Fri, 13 Mar 2015 03:24:10 +0000",
+        "timestamp": "1426235050"
       },
       "subtitle": "Richard Martin reviews the up to the minute events shaping your future in policy, economics, and world events.",
       "title": "Richard Martins   Wake Up Call"
