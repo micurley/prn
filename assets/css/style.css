@@ -115,7 +115,7 @@ h3.date-tear-sheet-month {
 .site-timestamp {
     position:absolute;
     bottom:-25px;
-    right:-125px;
+    right:0px;
 }
 
 .site-timestamp code {
