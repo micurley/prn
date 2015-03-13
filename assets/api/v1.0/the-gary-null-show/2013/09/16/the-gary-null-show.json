@@ -1,0 +1,50 @@
+{
+  "header": {
+    "category": "the-gary-null-show",
+    "image": {
+      "type": "",
+      "url": ""
+    },
+    "layout": "podcast",
+    "link": "http://thegarynullshow.podbean.com/e/the-gary-null-show-091613/",
+    "podcast": {
+      "developer-note": "",
+      "length": "1:00:3",
+      "note": "",
+      "size": 14520216,
+      "type": "audio/mpeg",
+      "url": "http://thegarynullshow.podbean.com/mf/feed/z77xgh/GaryNullShow091613.mp3"
+    },
+    "show": {
+      "category": [
+        "Health"
+      ],
+      "image": {
+        "height": 144,
+        "url": "http://thegarynullshow.podbean.com/feed/h",
+        "width": 144
+      },
+      "owner": {
+        "email": "h",
+        "name": "h"
+      },
+      "published": {
+        "string": "Thu, 12 Mar 2015 17:00:00 +0000",
+        "timestamp": "1426197600"
+      },
+      "subtitle": "h",
+      "title": "The Gary Null Show"
+    },
+    "tags": [
+      "Health",
+      "the-gary-null-show"
+    ],
+    "title": "The Gary Null Show"
+  },
+  "title": "The Gary Null Show",
+  "date": "2013-09-16 00:00:00 -0400",
+  "categories": [
+    "the-gary-null-show"
+  ],
+  "content": "<p>On today’s show, Gary gives commentary addressing information on Fukushima, and also concerning when the US used cancer<span class=\"ellipsis\">...</span>\n&lt;!--more--&gt;\nas a weapon. <br />\nPlus new information on Turkish prosecutors endictment of Syrian rebels for seeking to use chemical weapons. <br />\nPlus the latest in health and nutrition and more!\n<br /></p>\n"
+}

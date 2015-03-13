@@ -1,0 +1,50 @@
+{
+  "header": {
+    "category": "the-gary-null-show",
+    "image": {
+      "type": "",
+      "url": ""
+    },
+    "layout": "podcast",
+    "link": "http://thegarynullshow.podbean.com/e/the-gary-null-show-121613/",
+    "podcast": {
+      "developer-note": "",
+      "length": "56:11",
+      "note": "",
+      "size": 13487961,
+      "type": "audio/mpeg",
+      "url": "http://thegarynullshow.podbean.com/mf/feed/5y946/GaryNullShow121613.mp3"
+    },
+    "show": {
+      "category": [
+        "Health"
+      ],
+      "image": {
+        "height": 144,
+        "url": "http://thegarynullshow.podbean.com/feed/h",
+        "width": 144
+      },
+      "owner": {
+        "email": "h",
+        "name": "h"
+      },
+      "published": {
+        "string": "Thu, 12 Mar 2015 17:00:00 +0000",
+        "timestamp": "1426197600"
+      },
+      "subtitle": "h",
+      "title": "The Gary Null Show"
+    },
+    "tags": [
+      "Health",
+      "the-gary-null-show"
+    ],
+    "title": "The Gary Null Show"
+  },
+  "title": "The Gary Null Show",
+  "date": "2013-12-16 00:00:00 -0500",
+  "categories": [
+    "the-gary-null-show"
+  ],
+  "content": "<p>An all-new empowerment hour bringing you the latest news in health and healing, and important commentary on<span class=\"ellipsis\">...</span>\n&lt;!--more--&gt;\nenvironmental, social, and political issues.\n<br /></p>\n"
+}

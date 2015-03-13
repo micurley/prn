@@ -1,0 +1,50 @@
+{
+  "header": {
+    "category": "leid-stories",
+    "image": {
+      "type": "image",
+      "url": "http://leidstories.podbean.com/mf/web/vb9b/Utrice-Leid-Album-Art.jpg"
+    },
+    "layout": "podcast",
+    "link": "http://leidstories.podbean.com/e/leid-stories-calling-your-bluff-092012/",
+    "podcast": {
+      "developer-note": "",
+      "length": "49:28",
+      "note": "",
+      "size": 11873280,
+      "type": "audio/mpeg",
+      "url": "http://leidstories.podbean.com/mf/feed/zq4s8e/LeidStories092012.mp3"
+    },
+    "show": {
+      "category": [
+        "Society & Culture"
+      ],
+      "image": {
+        "height": 144,
+        "url": "http://imglogo.podbean.com/image-logo/547423/Utrice-Leid-Album-Art.jpg",
+        "width": 144
+      },
+      "owner": {
+        "email": "jtaubenfeld@garynull.com",
+        "name": "Progressive Radio Network"
+      },
+      "published": {
+        "string": "Thu, 12 Mar 2015 21:05:57 +0000",
+        "timestamp": "1426212357"
+      },
+      "subtitle": "Stories and news that affect us all",
+      "title": "Leid Stories"
+    },
+    "tags": [
+      "Society & Culture",
+      "leid-stories"
+    ],
+    "title": "Calling Your Bluff"
+  },
+  "title": "Calling Your Bluff",
+  "date": "2012-09-20 00:00:00 -0400",
+  "categories": [
+    "leid-stories"
+  ],
+  "content": "<p>Presidential campaign update - Mitt Romney finds himself struggling to recover from another gaff, Tim Pawlenty jumps<span class=\"ellipsis\">...</span>\n&lt;!--more--&gt;\nship.\n<br />\nCalling your bluff — listeners sound off on our country’s problems and propose solutions.<br /></p>\n"
+}

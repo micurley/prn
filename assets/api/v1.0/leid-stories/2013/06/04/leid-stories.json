@@ -1,0 +1,50 @@
+{
+  "header": {
+    "category": "leid-stories",
+    "image": {
+      "type": "image",
+      "url": "http://leidstories.podbean.com/mf/web/vb9b/Utrice-Leid-Album-Art.jpg"
+    },
+    "layout": "podcast",
+    "link": "http://leidstories.podbean.com/e/leid-stories-060413/",
+    "podcast": {
+      "developer-note": "",
+      "length": "50:49",
+      "note": "",
+      "size": 12197303,
+      "type": "audio/mpeg",
+      "url": "http://leidstories.podbean.com/mf/feed/r872t/LeidStories060413.mp3"
+    },
+    "show": {
+      "category": [
+        "Society & Culture"
+      ],
+      "image": {
+        "height": 144,
+        "url": "http://imglogo.podbean.com/image-logo/547423/Utrice-Leid-Album-Art.jpg",
+        "width": 144
+      },
+      "owner": {
+        "email": "jtaubenfeld@garynull.com",
+        "name": "Progressive Radio Network"
+      },
+      "published": {
+        "string": "Thu, 12 Mar 2015 21:05:57 +0000",
+        "timestamp": "1426212357"
+      },
+      "subtitle": "Stories and news that affect us all",
+      "title": "Leid Stories"
+    },
+    "tags": [
+      "Society & Culture",
+      "leid-stories"
+    ],
+    "title": "Leid Stories"
+  },
+  "title": "Leid Stories",
+  "date": "2013-06-04 00:00:00 -0400",
+  "categories": [
+    "leid-stories"
+  ],
+  "content": "<p>It’s the Court of Public Opinion; Your Take Rules!\nIt’s Open Forum on Leid Stories.\n&lt;!--more--&gt;\nListeners offer their observations and on news issues and events—or anything else they deem worthy of consideration, for that matter.\n<br /></p>\n\n<p>Of course, your views are your own, but be prepared to defend them, for you will be challenged—with great love and respect, of course!<br /></p>\n"
+}

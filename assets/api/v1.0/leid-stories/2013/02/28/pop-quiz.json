@@ -1,0 +1,50 @@
+{
+  "header": {
+    "category": "leid-stories",
+    "image": {
+      "type": "image",
+      "url": "http://leidstories.podbean.com/mf/web/vb9b/Utrice-Leid-Album-Art.jpg"
+    },
+    "layout": "podcast",
+    "link": "http://leidstories.podbean.com/e/leid-stories-pop-quiz-022813/",
+    "podcast": {
+      "developer-note": "",
+      "length": "47:58",
+      "note": "",
+      "size": 11513626,
+      "type": "audio/mpeg",
+      "url": "http://leidstories.podbean.com/mf/feed/afaiiu/LeidStories022813.mp3"
+    },
+    "show": {
+      "category": [
+        "Society & Culture"
+      ],
+      "image": {
+        "height": 144,
+        "url": "http://imglogo.podbean.com/image-logo/547423/Utrice-Leid-Album-Art.jpg",
+        "width": 144
+      },
+      "owner": {
+        "email": "jtaubenfeld@garynull.com",
+        "name": "Progressive Radio Network"
+      },
+      "published": {
+        "string": "Thu, 12 Mar 2015 21:05:57 +0000",
+        "timestamp": "1426212357"
+      },
+      "subtitle": "Stories and news that affect us all",
+      "title": "Leid Stories"
+    },
+    "tags": [
+      "Society & Culture",
+      "leid-stories"
+    ],
+    "title": "Pop Quiz"
+  },
+  "title": "Pop Quiz",
+  "date": "2013-02-28 00:00:00 -0500",
+  "categories": [
+    "leid-stories"
+  ],
+  "content": "<p>Listeners exchange opinions and views about issues and events they believe warrant closer attention.\n&lt;!--more--&gt;\nPlus, it’s Pop Quiz! <br />\nTest your advanced listening ability; your keen analytical skills; your knowledge of US history, particularly of the modern civil-rights era and contemporary politics;your innate journalistic skills; and your ability to present your point of view masterfully.\n<br /></p>\n"
+}

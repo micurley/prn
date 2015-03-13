@@ -1,0 +1,50 @@
+{
+  "header": {
+    "category": "leid-stories",
+    "image": {
+      "type": "",
+      "url": ""
+    },
+    "layout": "podcast",
+    "link": "http://leidstories.podbean.com/e/leid-stories-120913/",
+    "podcast": {
+      "developer-note": "",
+      "length": "52:08",
+      "note": "",
+      "size": 12514011,
+      "type": "audio/mpeg",
+      "url": "http://leidstories.podbean.com/mf/feed/cwznry/LeidStories120913.mp3"
+    },
+    "show": {
+      "category": [
+        "Society & Culture"
+      ],
+      "image": {
+        "height": 144,
+        "url": "http://imglogo.podbean.com/image-logo/547423/Utrice-Leid-Album-Art.jpg",
+        "width": 144
+      },
+      "owner": {
+        "email": "jtaubenfeld@garynull.com",
+        "name": "Progressive Radio Network"
+      },
+      "published": {
+        "string": "Thu, 12 Mar 2015 21:05:57 +0000",
+        "timestamp": "1426212357"
+      },
+      "subtitle": "Stories and news that affect us all",
+      "title": "Leid Stories"
+    },
+    "tags": [
+      "Society & Culture",
+      "leid-stories"
+    ],
+    "title": "Leid Stories"
+  },
+  "title": "Leid Stories",
+  "date": "2013-12-09 00:00:00 -0500",
+  "categories": [
+    "leid-stories"
+  ],
+  "content": "<p> Dr. Lester Spence – Johns Hopkins University</p>\n\n<!--more-->\n"
+}

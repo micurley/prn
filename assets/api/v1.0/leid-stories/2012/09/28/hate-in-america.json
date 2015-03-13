@@ -1,0 +1,50 @@
+{
+  "header": {
+    "category": "leid-stories",
+    "image": {
+      "type": "image",
+      "url": "http://leidstories.podbean.com/mf/web/vb9b/Utrice-Leid-Album-Art.jpg"
+    },
+    "layout": "podcast",
+    "link": "http://leidstories.podbean.com/e/leid-stories-hate-in-america-092812/",
+    "podcast": {
+      "developer-note": "",
+      "length": "47:23",
+      "note": "",
+      "size": 11373610,
+      "type": "audio/mpeg",
+      "url": "http://leidstories.podbean.com/mf/feed/3m5a2/LeidStories092812.mp3"
+    },
+    "show": {
+      "category": [
+        "Society & Culture"
+      ],
+      "image": {
+        "height": 144,
+        "url": "http://imglogo.podbean.com/image-logo/547423/Utrice-Leid-Album-Art.jpg",
+        "width": 144
+      },
+      "owner": {
+        "email": "jtaubenfeld@garynull.com",
+        "name": "Progressive Radio Network"
+      },
+      "published": {
+        "string": "Thu, 12 Mar 2015 21:05:57 +0000",
+        "timestamp": "1426212357"
+      },
+      "subtitle": "Stories and news that affect us all",
+      "title": "Leid Stories"
+    },
+    "tags": [
+      "Society & Culture",
+      "leid-stories"
+    ],
+    "title": "Hate in America"
+  },
+  "title": "Hate in America",
+  "date": "2012-09-28 00:00:00 -0400",
+  "categories": [
+    "leid-stories"
+  ],
+  "content": "<p>Leid Stories trains the microscope on hate in America — who’s doing it, and why their actions and crimes are so hard to<span class=\"ellipsis\">...</span>\n&lt;!--more--&gt;\ncontrol or prosecute.\n<br />\nMark Potok, one of the country’s leading experts on hate groups and extremism, gives a status report on hate groups and hate crimes in America.<br />\n  And Brian Levin, a criminologist and law professor, discusses the legal challenges in prosecuting hate crimes and terrorism.\n<br /></p>\n"
+}

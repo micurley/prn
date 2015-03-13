@@ -1,0 +1,50 @@
+{
+  "header": {
+    "category": "the-gary-null-show",
+    "image": {
+      "type": "",
+      "url": ""
+    },
+    "layout": "podcast",
+    "link": "http://thegarynullshow.podbean.com/e/the-gary-null-show-110414-1415130955/",
+    "podcast": {
+      "developer-note": "",
+      "length": "58:2",
+      "note": "",
+      "size": 21001106,
+      "type": "audio/mpeg",
+      "url": "http://thegarynullshow.podbean.com/mf/feed/asrkzh/GaryNullShow_110414.mp3"
+    },
+    "show": {
+      "category": [
+        "Health"
+      ],
+      "image": {
+        "height": 144,
+        "url": "http://thegarynullshow.podbean.com/feed/h",
+        "width": 144
+      },
+      "owner": {
+        "email": "h",
+        "name": "h"
+      },
+      "published": {
+        "string": "Thu, 12 Mar 2015 17:00:00 +0000",
+        "timestamp": "1426197600"
+      },
+      "subtitle": "h",
+      "title": "The Gary Null Show"
+    },
+    "tags": [
+      "Health",
+      "the-gary-null-show"
+    ],
+    "title": "The Gary Null Show"
+  },
+  "title": "The Gary Null Show",
+  "date": "2014-11-04 00:00:00 -0500",
+  "categories": [
+    "the-gary-null-show"
+  ],
+  "content": "<p>Today, the latest in health and healing, including pumpkins and diabetes, coenzyme Q10 and veteran gulf war syndrome,<span class=\"ellipsis\">...</span>\n&lt;!--more--&gt;\nan herb to beat cancer, and black sesame seeds reduce high blood pressure. \nAlso today alternative treatments for children to develop natural immunity. \nAnd more … <br /></p>\n"
+}

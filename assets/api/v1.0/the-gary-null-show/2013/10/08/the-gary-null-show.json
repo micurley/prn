@@ -1,0 +1,50 @@
+{
+  "header": {
+    "category": "the-gary-null-show",
+    "image": {
+      "type": "",
+      "url": ""
+    },
+    "layout": "podcast",
+    "link": "http://thegarynullshow.podbean.com/e/the-gary-null-show-100813/",
+    "podcast": {
+      "developer-note": "",
+      "length": "1:01:01",
+      "note": "",
+      "size": 14646716,
+      "type": "audio/mpeg",
+      "url": "http://thegarynullshow.podbean.com/mf/feed/7beer/GaryNullShow100813.mp3"
+    },
+    "show": {
+      "category": [
+        "Health"
+      ],
+      "image": {
+        "height": 144,
+        "url": "http://thegarynullshow.podbean.com/feed/h",
+        "width": 144
+      },
+      "owner": {
+        "email": "h",
+        "name": "h"
+      },
+      "published": {
+        "string": "Thu, 12 Mar 2015 17:00:00 +0000",
+        "timestamp": "1426197600"
+      },
+      "subtitle": "h",
+      "title": "The Gary Null Show"
+    },
+    "tags": [
+      "Health",
+      "the-gary-null-show"
+    ],
+    "title": "The Gary Null Show"
+  },
+  "title": "The Gary Null Show",
+  "date": "2013-10-08 00:00:00 -0400",
+  "categories": [
+    "the-gary-null-show"
+  ],
+  "content": "<p>Commentary day! From George Monbiot, rewilding the child. An expose on the pharmaceutical industry.\n&lt;!--more--&gt;\nInformation on the connection between vaccines and autism. <br />\nThen, radioactive water from fracking found in Pennsylvania streams. <br />\nAnd much more!<br /></p>\n"
+}

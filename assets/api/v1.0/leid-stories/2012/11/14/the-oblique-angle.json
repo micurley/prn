@@ -1,0 +1,50 @@
+{
+  "header": {
+    "category": "leid-stories",
+    "image": {
+      "type": "image",
+      "url": "http://leidstories.podbean.com/mf/web/vb9b/Utrice-Leid-Album-Art.jpg"
+    },
+    "layout": "podcast",
+    "link": "http://leidstories.podbean.com/e/leid-stories-the-oblique-angle-111412/",
+    "podcast": {
+      "developer-note": "",
+      "length": "49:56",
+      "note": "",
+      "size": 23968705,
+      "type": "audio/mpeg",
+      "url": "http://leidstories.podbean.com/mf/feed/4ystc4/LeidStories111412.mp3"
+    },
+    "show": {
+      "category": [
+        "Society & Culture"
+      ],
+      "image": {
+        "height": 144,
+        "url": "http://imglogo.podbean.com/image-logo/547423/Utrice-Leid-Album-Art.jpg",
+        "width": 144
+      },
+      "owner": {
+        "email": "jtaubenfeld@garynull.com",
+        "name": "Progressive Radio Network"
+      },
+      "published": {
+        "string": "Thu, 12 Mar 2015 21:05:57 +0000",
+        "timestamp": "1426212357"
+      },
+      "subtitle": "Stories and news that affect us all",
+      "title": "Leid Stories"
+    },
+    "tags": [
+      "Society & Culture",
+      "leid-stories"
+    ],
+    "title": "The Oblique Angle"
+  },
+  "title": "The Oblique Angle",
+  "date": "2012-11-14 00:00:00 -0500",
+  "categories": [
+    "leid-stories"
+  ],
+  "content": "<p>Sam Smith, editor of The Progressive Review, discusses contemporary political issues — including party politics,<span class=\"ellipsis\">...</span>\n&lt;!--more--&gt;\nPresident Obama and his administration, the paradox of left-of-center movements, and the need to move quickly on reassembling coalitions to deal with the onslaught to come.\n<br /></p>\n"
+}

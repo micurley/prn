@@ -1,0 +1,50 @@
+{
+  "header": {
+    "category": "leid-stories",
+    "image": {
+      "type": "",
+      "url": ""
+    },
+    "layout": "podcast",
+    "link": "http://leidstories.podbean.com/e/leid-stories-091713/",
+    "podcast": {
+      "developer-note": "",
+      "length": "",
+      "note": "",
+      "size": 12573362,
+      "type": "audio/mpeg",
+      "url": "http://leidstories.podbean.com/mf/feed/bhmcej/LeidStories091713.mp3"
+    },
+    "show": {
+      "category": [
+        "Society & Culture"
+      ],
+      "image": {
+        "height": 144,
+        "url": "http://imglogo.podbean.com/image-logo/547423/Utrice-Leid-Album-Art.jpg",
+        "width": 144
+      },
+      "owner": {
+        "email": "jtaubenfeld@garynull.com",
+        "name": "Progressive Radio Network"
+      },
+      "published": {
+        "string": "Thu, 12 Mar 2015 21:05:57 +0000",
+        "timestamp": "1426212357"
+      },
+      "subtitle": "Stories and news that affect us all",
+      "title": "Leid Stories"
+    },
+    "tags": [
+      "Society & Culture",
+      "leid-stories"
+    ],
+    "title": "Leid Stories"
+  },
+  "title": "Leid Stories",
+  "date": "2013-09-17 00:00:00 -0400",
+  "categories": [
+    "leid-stories"
+  ],
+  "content": "<p>Speak Your Mind! It’s Open Forum on Leid Stories!\nLet’s hear your take on the issues of the day.\n&lt;!--more--&gt;\nOr, on something else entirely. <br />\nIt’s Open Forum on Leid Stories – which means you take the conversation wherever you want it to go. <br />\nBring your perspective to the gathering place for the exchange of information, opinions and ideas, and engage in vigorous discussion and debate.<br /></p>\n"
+}

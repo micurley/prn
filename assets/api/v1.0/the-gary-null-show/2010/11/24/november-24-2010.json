@@ -1,0 +1,50 @@
+{
+  "header": {
+    "category": "the-gary-null-show",
+    "image": {
+      "type": "",
+      "url": ""
+    },
+    "layout": "podcast",
+    "link": "http://thegarynullshow.podbean.com/e/november-24-2010/",
+    "podcast": {
+      "developer-note": "",
+      "length": "57:38",
+      "note": "",
+      "size": 13833216,
+      "type": "audio/mpeg",
+      "url": "http://thegarynullshow.podbean.com/mf/feed/vgsnik/GaryNullShow112410Edit.mp3"
+    },
+    "show": {
+      "category": [
+        "Health"
+      ],
+      "image": {
+        "height": 144,
+        "url": "http://thegarynullshow.podbean.com/feed/h",
+        "width": 144
+      },
+      "owner": {
+        "email": "h",
+        "name": "h"
+      },
+      "published": {
+        "string": "Thu, 12 Mar 2015 17:00:00 +0000",
+        "timestamp": "1426197600"
+      },
+      "subtitle": "h",
+      "title": "The Gary Null Show"
+    },
+    "tags": [
+      "Health",
+      "the-gary-null-show"
+    ],
+    "title": "November 24, 2010"
+  },
+  "title": "November 24, 2010",
+  "date": "2010-11-24 00:00:00 -0500",
+  "categories": [
+    "the-gary-null-show"
+  ],
+  "content": "<p>Today’s guest is Professor Ralph Abraham and he is a professor emeritus of mathematics, and visionary thought leader in<span class=\"ellipsis\">...</span>\n&lt;!--more--&gt;\nchaos theory, at the University of California at Santa Cruz, where he has taught since 1968 and where he founded the Visual Math Project. <br />\n He has held previous teaching positions at Columbia, Princeton, and universities across Europ\n<br /></p>\n"
+}

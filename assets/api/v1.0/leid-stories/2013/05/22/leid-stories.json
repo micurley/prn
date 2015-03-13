@@ -1,0 +1,50 @@
+{
+  "header": {
+    "category": "leid-stories",
+    "image": {
+      "type": "image",
+      "url": "http://leidstories.podbean.com/mf/web/vb9b/Utrice-Leid-Album-Art.jpg"
+    },
+    "layout": "podcast",
+    "link": "http://leidstories.podbean.com/e/leid-stories-052213/",
+    "podcast": {
+      "developer-note": "",
+      "length": "53:5",
+      "note": "",
+      "size": 11513313,
+      "type": "audio/mpeg",
+      "url": "http://leidstories.podbean.com/mf/feed/d55exp/LeidStories052213.mp3"
+    },
+    "show": {
+      "category": [
+        "Society & Culture"
+      ],
+      "image": {
+        "height": 144,
+        "url": "http://imglogo.podbean.com/image-logo/547423/Utrice-Leid-Album-Art.jpg",
+        "width": 144
+      },
+      "owner": {
+        "email": "jtaubenfeld@garynull.com",
+        "name": "Progressive Radio Network"
+      },
+      "published": {
+        "string": "Thu, 12 Mar 2015 21:05:57 +0000",
+        "timestamp": "1426212357"
+      },
+      "subtitle": "Stories and news that affect us all",
+      "title": "Leid Stories"
+    },
+    "tags": [
+      "Society & Culture",
+      "leid-stories"
+    ],
+    "title": "Leid Stories"
+  },
+  "title": "Leid Stories",
+  "date": "2013-05-22 00:00:00 -0400",
+  "categories": [
+    "leid-stories"
+  ],
+  "content": "<p>Tell It the Way You See It: It’s Open Forum on Leid Stories—which means the discussion goes where callers want it to<span class=\"ellipsis\">...</span>\n&lt;!--more--&gt;\ngo. <br />\nPostulate, opine, debate, respond, retort, analyze, theorize, criticize, decipher, challenge—just go ahead and state your case! <br />\nBut, as usual, be prepared to defend your point of view, because you’ll be challenged—with great love and respect, of course.\n<br /></p>\n"
+}

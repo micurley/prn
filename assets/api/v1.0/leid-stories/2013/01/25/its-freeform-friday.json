@@ -1,0 +1,50 @@
+{
+  "header": {
+    "category": "leid-stories",
+    "image": {
+      "type": "image",
+      "url": "http://leidstories.podbean.com/mf/web/vb9b/Utrice-Leid-Album-Art.jpg"
+    },
+    "layout": "podcast",
+    "link": "http://leidstories.podbean.com/e/leid-stories-its-freeform-friday-012513/",
+    "podcast": {
+      "developer-note": "",
+      "length": "49:39",
+      "note": "",
+      "size": 11919569,
+      "type": "audio/mpeg",
+      "url": "http://leidstories.podbean.com/mf/feed/cadkih/LeidStories012513.mp3"
+    },
+    "show": {
+      "category": [
+        "Society & Culture"
+      ],
+      "image": {
+        "height": 144,
+        "url": "http://imglogo.podbean.com/image-logo/547423/Utrice-Leid-Album-Art.jpg",
+        "width": 144
+      },
+      "owner": {
+        "email": "jtaubenfeld@garynull.com",
+        "name": "Progressive Radio Network"
+      },
+      "published": {
+        "string": "Thu, 12 Mar 2015 21:05:57 +0000",
+        "timestamp": "1426212357"
+      },
+      "subtitle": "Stories and news that affect us all",
+      "title": "Leid Stories"
+    },
+    "tags": [
+      "Society & Culture",
+      "leid-stories"
+    ],
+    "title": "It’s Freeform Friday!"
+  },
+  "title": "It’s Freeform Friday!",
+  "date": "2013-01-25 00:00:00 -0500",
+  "categories": [
+    "leid-stories"
+  ],
+  "content": "<p>Listeners offer their analyses of major issues of the day, as well as topics that escaped media attention. </p>\n\n<!--more-->\n"
+}

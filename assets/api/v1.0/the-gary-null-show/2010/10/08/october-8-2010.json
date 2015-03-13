@@ -1,0 +1,50 @@
+{
+  "header": {
+    "category": "the-gary-null-show",
+    "image": {
+      "type": "",
+      "url": ""
+    },
+    "layout": "podcast",
+    "link": "http://thegarynullshow.podbean.com/e/october-8-2010/",
+    "podcast": {
+      "developer-note": "",
+      "length": "57:05",
+      "note": "",
+      "size": 13702320,
+      "type": "audio/mpeg",
+      "url": "http://thegarynullshow.podbean.com/mf/feed/mkb4aq/GaryNullShow100810.mp3"
+    },
+    "show": {
+      "category": [
+        "Health"
+      ],
+      "image": {
+        "height": 144,
+        "url": "http://thegarynullshow.podbean.com/feed/h",
+        "width": 144
+      },
+      "owner": {
+        "email": "h",
+        "name": "h"
+      },
+      "published": {
+        "string": "Thu, 12 Mar 2015 17:00:00 +0000",
+        "timestamp": "1426197600"
+      },
+      "subtitle": "h",
+      "title": "The Gary Null Show"
+    },
+    "tags": [
+      "Health",
+      "the-gary-null-show"
+    ],
+    "title": "October 8, 2010"
+  },
+  "title": "October 8, 2010",
+  "date": "2010-10-08 00:00:00 -0400",
+  "categories": [
+    "the-gary-null-show"
+  ],
+  "content": "<p>Today’s guest is Gene Stone and he is a New York Times bestseller author of “The Bush Survival Bible” and “The Engine 2<span class=\"ellipsis\">...</span>\n&lt;!--more--&gt;\nDiet.<br />\n” A graduate of Stanford and Harvard, Gene has been a screenwriter, television producer and a journalist writing for Esquire, the Huffington Post, New York, the Los Angeles Times and for several publishing firms.\n<br /></p>\n"
+}

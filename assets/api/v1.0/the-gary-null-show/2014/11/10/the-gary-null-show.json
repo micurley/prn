@@ -1,0 +1,50 @@
+{
+  "header": {
+    "category": "the-gary-null-show",
+    "image": {
+      "type": "",
+      "url": ""
+    },
+    "layout": "podcast",
+    "link": "http://thegarynullshow.podbean.com/e/the-gary-null-show-111014/",
+    "podcast": {
+      "developer-note": "",
+      "length": "1:01:25",
+      "note": "",
+      "size": 22115176,
+      "type": "audio/mpeg",
+      "url": "http://thegarynullshow.podbean.com/mf/feed/s487tx/GaryNullShow_111014.mp3"
+    },
+    "show": {
+      "category": [
+        "Health"
+      ],
+      "image": {
+        "height": 144,
+        "url": "http://thegarynullshow.podbean.com/feed/h",
+        "width": 144
+      },
+      "owner": {
+        "email": "h",
+        "name": "h"
+      },
+      "published": {
+        "string": "Thu, 12 Mar 2015 17:00:00 +0000",
+        "timestamp": "1426197600"
+      },
+      "subtitle": "h",
+      "title": "The Gary Null Show"
+    },
+    "tags": [
+      "Health",
+      "the-gary-null-show"
+    ],
+    "title": "The Gary Null Show"
+  },
+  "title": "The Gary Null Show",
+  "date": "2014-11-10 00:00:00 -0500",
+  "categories": [
+    "the-gary-null-show"
+  ],
+  "content": "<p>All the latest in health and healing, plus commentary, environmental updates, exploration of epigenetics, and how meat<span class=\"ellipsis\">...</span>\n&lt;!--more--&gt;\neaters are tipping the balance of world consumption. \n<br /></p>\n"
+}

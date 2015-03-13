@@ -1,0 +1,50 @@
+{
+  "header": {
+    "category": "the-gary-null-show",
+    "image": {
+      "type": "",
+      "url": ""
+    },
+    "layout": "podcast",
+    "link": "http://thegarynullshow.podbean.com/e/the-gary-null-show-021714/",
+    "podcast": {
+      "developer-note": "",
+      "length": "1:04:28",
+      "note": "",
+      "size": 15475461,
+      "type": "audio/mpeg",
+      "url": "http://thegarynullshow.podbean.com/mf/feed/6merfy/GaryNullShow_021714.mp3"
+    },
+    "show": {
+      "category": [
+        "Health"
+      ],
+      "image": {
+        "height": 144,
+        "url": "http://thegarynullshow.podbean.com/feed/h",
+        "width": 144
+      },
+      "owner": {
+        "email": "h",
+        "name": "h"
+      },
+      "published": {
+        "string": "Thu, 12 Mar 2015 17:00:00 +0000",
+        "timestamp": "1426197600"
+      },
+      "subtitle": "h",
+      "title": "The Gary Null Show"
+    },
+    "tags": [
+      "Health",
+      "the-gary-null-show"
+    ],
+    "title": "The Gary Null Show"
+  },
+  "title": "The Gary Null Show",
+  "date": "2014-02-17 00:00:00 -0500",
+  "categories": [
+    "the-gary-null-show"
+  ],
+  "content": "<p>The latest on health and healing in regards to arteries, making more rational decisions following mindfulness<span class=\"ellipsis\">...</span>\n&lt;!--more--&gt;\nmeditation, rodiola improves hyperglycemia, new approaches to Alzheimer’s conditions, and loneliness as a serious health risk.\n<br />\nEnvironmental reports on links between industrial chemicals and neuro-developmental problems, as well as an in depth look into the California Central Valley.\n<br /></p>\n"
+}

@@ -1,0 +1,50 @@
+{
+  "header": {
+    "category": "leid-stories",
+    "image": {
+      "type": "image",
+      "url": "http://leidstories.podbean.com/mf/web/vb9b/Utrice-Leid-Album-Art.jpg"
+    },
+    "layout": "podcast",
+    "link": "http://leidstories.podbean.com/e/leid-stories-stop-and-frisk-everyday-terror-in-nyc-031513/",
+    "podcast": {
+      "developer-note": "",
+      "length": "50:56",
+      "note": "",
+      "size": 12226038,
+      "type": "audio/mpeg",
+      "url": "http://leidstories.podbean.com/mf/feed/merq57/LeidStories031513.mp3"
+    },
+    "show": {
+      "category": [
+        "Society & Culture"
+      ],
+      "image": {
+        "height": 144,
+        "url": "http://imglogo.podbean.com/image-logo/547423/Utrice-Leid-Album-Art.jpg",
+        "width": 144
+      },
+      "owner": {
+        "email": "jtaubenfeld@garynull.com",
+        "name": "Progressive Radio Network"
+      },
+      "published": {
+        "string": "Thu, 12 Mar 2015 21:05:57 +0000",
+        "timestamp": "1426212357"
+      },
+      "subtitle": "Stories and news that affect us all",
+      "title": "Leid Stories"
+    },
+    "tags": [
+      "Society & Culture",
+      "leid-stories"
+    ],
+    "title": "Stop and Frisk: Everyday Terror in NYC"
+  },
+  "title": "Stop and Frisk: Everyday Terror in NYC",
+  "date": "2013-03-15 00:00:00 -0400",
+  "categories": [
+    "leid-stories"
+  ],
+  "content": "<p>A class-action lawsuit alleging widespread, routine civil-rights violations of men of color by New York City police<span class=\"ellipsis\">...</span>\n&lt;!--more--&gt;\ncomes to trial in federal court next week. <br />\nThe NYPD will have to explain why, in one year alone, police made 685,724 stops of Black and Latino males under its stop-and-frisk “anti-crime” tactics when more than 90 percent of them were baseless. <br />\nLeid Stories examines the psychological impact of the stop-and-frisk program on innocent victims – the focus of an in-depth report that will be introduced at trial.\n<br /></p>\n"
+}

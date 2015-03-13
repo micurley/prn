@@ -1,0 +1,50 @@
+{
+  "header": {
+    "category": "the-gary-null-show",
+    "image": {
+      "type": "",
+      "url": ""
+    },
+    "layout": "podcast",
+    "link": "http://thegarynullshow.podbean.com/e/gary-null-myths-and-truths-100312/",
+    "podcast": {
+      "developer-note": "",
+      "length": "59:32",
+      "note": "",
+      "size": 14291905,
+      "type": "audio/mpeg",
+      "url": "http://thegarynullshow.podbean.com/mf/feed/24dveh/GaryNullShow100312.mp3"
+    },
+    "show": {
+      "category": [
+        "Health"
+      ],
+      "image": {
+        "height": 144,
+        "url": "http://thegarynullshow.podbean.com/feed/h",
+        "width": 144
+      },
+      "owner": {
+        "email": "h",
+        "name": "h"
+      },
+      "published": {
+        "string": "Thu, 12 Mar 2015 17:00:00 +0000",
+        "timestamp": "1426197600"
+      },
+      "subtitle": "h",
+      "title": "The Gary Null Show"
+    },
+    "tags": [
+      "Health",
+      "the-gary-null-show"
+    ],
+    "title": "Gary NullMyths and Truths"
+  },
+  "title": "Gary NullMyths and Truths",
+  "date": "2012-10-03 00:00:00 -0400",
+  "categories": [
+    "the-gary-null-show"
+  ],
+  "content": "<p>Why ginger could save your life\nGenetically modified toxins and pregnant women\nLatest report on HPV vaccine\nMorbid<span class=\"ellipsis\">...</span>\n&lt;!--more--&gt;\nobesity\n5 myths about American education\nand more …\n<br /></p>\n"
+}

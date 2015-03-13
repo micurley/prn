@@ -1,0 +1,50 @@
+{
+  "header": {
+    "category": "leid-stories",
+    "image": {
+      "type": "image",
+      "url": "http://leidstories.podbean.com/mf/web/vb9b/Utrice-Leid-Album-Art.jpg"
+    },
+    "layout": "podcast",
+    "link": "http://leidstories.podbean.com/e/leid-stories-required-listening-092412/",
+    "podcast": {
+      "developer-note": "",
+      "length": "52:52",
+      "note": "",
+      "size": 12690913,
+      "type": "audio/mpeg",
+      "url": "http://leidstories.podbean.com/mf/feed/fjriyh/LeidStories092412.mp3"
+    },
+    "show": {
+      "category": [
+        "Society & Culture"
+      ],
+      "image": {
+        "height": 144,
+        "url": "http://imglogo.podbean.com/image-logo/547423/Utrice-Leid-Album-Art.jpg",
+        "width": 144
+      },
+      "owner": {
+        "email": "jtaubenfeld@garynull.com",
+        "name": "Progressive Radio Network"
+      },
+      "published": {
+        "string": "Thu, 12 Mar 2015 21:05:57 +0000",
+        "timestamp": "1426212357"
+      },
+      "subtitle": "Stories and news that affect us all",
+      "title": "Leid Stories"
+    },
+    "tags": [
+      "Society & Culture",
+      "leid-stories"
+    ],
+    "title": "Required Listening"
+  },
+  "title": "Required Listening",
+  "date": "2012-09-24 00:00:00 -0400",
+  "categories": [
+    "leid-stories"
+  ],
+  "content": "<p>Discussing race issues with Dr.\n&lt;!--more--&gt;\nJeffrey Perry, and coercive enforcement of a false construct to maintain white supremacist objectives.<br /></p>\n"
+}

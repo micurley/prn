@@ -1,0 +1,52 @@
+{
+  "header": {
+    "category": "prescriptions-for-health",
+    "image": {
+      "type": "",
+      "url": ""
+    },
+    "layout": "podcast",
+    "link": "http://prescriptionsforhealth.podbean.com/e/prescriptions-for-health/",
+    "podcast": {
+      "developer-note": "",
+      "length": "56:41",
+      "note": "",
+      "size": 13606128,
+      "type": "audio/mpeg",
+      "url": "http://prescriptionsforhealth.podbean.com/mf/feed/txrb56/Prescriptions112811.mp3"
+    },
+    "show": {
+      "category": [
+        "Health",
+        "Alternative Health"
+      ],
+      "image": {
+        "height": 144,
+        "url": "http://imglogo.podbean.com/image-logo/368145/DrLenSeputo_AlbumArt.jpg",
+        "width": 144
+      },
+      "owner": {
+        "email": "karalee@garynull.com",
+        "name": "Progressive Radio Network"
+      },
+      "published": {
+        "string": "Thu, 05 Mar 2015 22:17:32 +0000",
+        "timestamp": "1425611852"
+      },
+      "subtitle": "Dr. Len and Nurse Vicki discuss various natural and holistic health topics while taking your calls.",
+      "title": "Prescriptions For Health"
+    },
+    "tags": [
+      "Health",
+      "Alternative Health",
+      "prescriptions-for-health"
+    ],
+    "title": "Prescriptions For Health"
+  },
+  "title": "Prescriptions For Health",
+  "date": "2011-11-28 00:00:00 -0500",
+  "categories": [
+    "prescriptions-for-health"
+  ],
+  "content": "<h3>Missing Content</h3>\n\n<!--more-->\n"
+}

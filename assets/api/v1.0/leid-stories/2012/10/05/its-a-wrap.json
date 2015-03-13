@@ -1,0 +1,50 @@
+{
+  "header": {
+    "category": "leid-stories",
+    "image": {
+      "type": "image",
+      "url": "http://leidstories.podbean.com/mf/web/vb9b/Utrice-Leid-Album-Art.jpg"
+    },
+    "layout": "podcast",
+    "link": "http://leidstories.podbean.com/e/leid-stories-its-a-wrap-100512/",
+    "podcast": {
+      "developer-note": "",
+      "length": "45:15",
+      "note": "",
+      "size": 10860983,
+      "type": "audio/mpeg",
+      "url": "http://leidstories.podbean.com/mf/feed/cnqxvs/LeidStories100512.mp3"
+    },
+    "show": {
+      "category": [
+        "Society & Culture"
+      ],
+      "image": {
+        "height": 144,
+        "url": "http://imglogo.podbean.com/image-logo/547423/Utrice-Leid-Album-Art.jpg",
+        "width": 144
+      },
+      "owner": {
+        "email": "jtaubenfeld@garynull.com",
+        "name": "Progressive Radio Network"
+      },
+      "published": {
+        "string": "Thu, 12 Mar 2015 21:05:57 +0000",
+        "timestamp": "1426212357"
+      },
+      "subtitle": "Stories and news that affect us all",
+      "title": "Leid Stories"
+    },
+    "tags": [
+      "Society & Culture",
+      "leid-stories"
+    ],
+    "title": "It’s A Wrap!"
+  },
+  "title": "It’s A Wrap!",
+  "date": "2012-10-05 00:00:00 -0400",
+  "categories": [
+    "leid-stories"
+  ],
+  "content": "<p>We close out the week with updates on the FCC’s plan to buy out broadcasters’ bandwidth and then auction it off to the<span class=\"ellipsis\">...</span>\n&lt;!--more--&gt;\ntelecommunications industry, and on fresh legal battles looming ahead for the Chicago Teachers Union.<br />\n  And, of course, more debate about the Duh-bate!\n<br /></p>\n"
+}

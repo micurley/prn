@@ -1,0 +1,50 @@
+{
+  "header": {
+    "category": "the-gary-null-show",
+    "image": {
+      "type": "",
+      "url": ""
+    },
+    "layout": "podcast",
+    "link": "http://thegarynullshow.podbean.com/e/the-gary-null-show-21113/",
+    "podcast": {
+      "developer-note": "",
+      "length": "1:04:17",
+      "note": "",
+      "size": 15428479,
+      "type": "audio/mpeg",
+      "url": "http://thegarynullshow.podbean.com/mf/feed/fxcnj/GaryNullShow021113.mp3"
+    },
+    "show": {
+      "category": [
+        "Health"
+      ],
+      "image": {
+        "height": 144,
+        "url": "http://thegarynullshow.podbean.com/feed/h",
+        "width": 144
+      },
+      "owner": {
+        "email": "h",
+        "name": "h"
+      },
+      "published": {
+        "string": "Thu, 12 Mar 2015 17:00:00 +0000",
+        "timestamp": "1426197600"
+      },
+      "subtitle": "h",
+      "title": "The Gary Null Show"
+    },
+    "tags": [
+      "Health",
+      "the-gary-null-show"
+    ],
+    "title": "The Gary Null Show"
+  },
+  "title": "The Gary Null Show",
+  "date": "2013-02-11 00:00:00 -0500",
+  "categories": [
+    "the-gary-null-show"
+  ],
+  "content": "<p>How to live a longer life, surviving strokes, mammograms and the harm they can do, lowering breast cancer risk, and 5<span class=\"ellipsis\">...</span>\n&lt;!--more--&gt;\ntop superfoods. <br />\nThen, public health issues: a new kind of prescription drug FDA approved which you won’t believe. <br />\nThen a commentary on the DSM, the psychiatric diagnostic bible. <br />\nAnd more!\n<br /></p>\n"
+}

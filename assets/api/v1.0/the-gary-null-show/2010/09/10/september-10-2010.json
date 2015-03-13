@@ -1,0 +1,50 @@
+{
+  "header": {
+    "category": "the-gary-null-show",
+    "image": {
+      "type": "",
+      "url": ""
+    },
+    "layout": "podcast",
+    "link": "http://thegarynullshow.podbean.com/e/september-10-2010/",
+    "podcast": {
+      "developer-note": "",
+      "length": "1:04:23",
+      "note": "",
+      "size": 15453792,
+      "type": "audio/mpeg",
+      "url": "http://thegarynullshow.podbean.com/mf/feed/qh2kun/GaryNullShow091010Part1.mp3"
+    },
+    "show": {
+      "category": [
+        "Health"
+      ],
+      "image": {
+        "height": 144,
+        "url": "http://thegarynullshow.podbean.com/feed/h",
+        "width": 144
+      },
+      "owner": {
+        "email": "h",
+        "name": "h"
+      },
+      "published": {
+        "string": "Thu, 12 Mar 2015 17:00:00 +0000",
+        "timestamp": "1426197600"
+      },
+      "subtitle": "h",
+      "title": "The Gary Null Show"
+    },
+    "tags": [
+      "Health",
+      "the-gary-null-show"
+    ],
+    "title": "September 10, 2010"
+  },
+  "title": "September 10, 2010",
+  "date": "2010-09-10 00:00:00 -0400",
+  "categories": [
+    "the-gary-null-show"
+  ],
+  "content": "<p>Today’s guest is Glenn Greenwald and he has been a constitutional law attorney specializing in First Amendment<span class=\"ellipsis\">...</span>\n&lt;!--more--&gt;\nlitigation for ten years and handling civil rights and corporate and securities fraud cases. <br />\n In 2005, he started a political and legal blog – Unclaimed Territory – which became one of the most frequently visited collection of political critiques in the blogosphere. <br /></p>\n\n<p><br /></p>\n"
+}

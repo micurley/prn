@@ -1,0 +1,50 @@
+{
+  "header": {
+    "category": "the-gary-null-show",
+    "image": {
+      "type": "",
+      "url": ""
+    },
+    "layout": "podcast",
+    "link": "http://thegarynullshow.podbean.com/e/the-gary-null-show-corporate-power-110812/",
+    "podcast": {
+      "developer-note": "",
+      "length": "55:22",
+      "note": "",
+      "size": 13291242,
+      "type": "audio/mpeg",
+      "url": "http://thegarynullshow.podbean.com/mf/feed/ik2qix/GaryNullShow110812.mp3"
+    },
+    "show": {
+      "category": [
+        "Health"
+      ],
+      "image": {
+        "height": 144,
+        "url": "http://thegarynullshow.podbean.com/feed/h",
+        "width": 144
+      },
+      "owner": {
+        "email": "h",
+        "name": "h"
+      },
+      "published": {
+        "string": "Thu, 12 Mar 2015 17:00:00 +0000",
+        "timestamp": "1426197600"
+      },
+      "subtitle": "h",
+      "title": "The Gary Null Show"
+    },
+    "tags": [
+      "Health",
+      "the-gary-null-show"
+    ],
+    "title": "Corporate Power"
+  },
+  "title": "Corporate Power",
+  "date": "2012-11-08 00:00:00 -0500",
+  "categories": [
+    "the-gary-null-show"
+  ],
+  "content": "<p>Gary shares the latest on health and healing and why animal experiments are not accurate.\n&lt;!--more--&gt;\nFrom the science section, the latest analysis of the flu vaccine and its efficacy. <br />\nCommentary from Andrew Gavin Marshall to prove that everything in the business community is based on a small group of companies who have an inordinate amount of power over the world. <br />\nEnvironmental section on the Superstorm and revisiting Fukushima. <br />\nAnd more!<br /></p>\n"
+}

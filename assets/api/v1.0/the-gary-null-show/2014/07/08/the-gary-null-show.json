@@ -1,0 +1,50 @@
+{
+  "header": {
+    "category": "the-gary-null-show",
+    "image": {
+      "type": "",
+      "url": ""
+    },
+    "layout": "podcast",
+    "link": "http://thegarynullshow.podbean.com/e/the-gary-null-show-070814/",
+    "podcast": {
+      "developer-note": "",
+      "length": "1:08:45",
+      "note": "",
+      "size": 16503536,
+      "type": "audio/mpeg",
+      "url": "http://thegarynullshow.podbean.com/mf/feed/tnmpuq/GaryNullShow_070814.mp3"
+    },
+    "show": {
+      "category": [
+        "Health"
+      ],
+      "image": {
+        "height": 144,
+        "url": "http://thegarynullshow.podbean.com/feed/h",
+        "width": 144
+      },
+      "owner": {
+        "email": "h",
+        "name": "h"
+      },
+      "published": {
+        "string": "Thu, 12 Mar 2015 17:00:00 +0000",
+        "timestamp": "1426197600"
+      },
+      "subtitle": "h",
+      "title": "The Gary Null Show"
+    },
+    "tags": [
+      "Health",
+      "the-gary-null-show"
+    ],
+    "title": "The Gary Null Show"
+  },
+  "title": "The Gary Null Show",
+  "date": "2014-07-08 00:00:00 -0400",
+  "categories": [
+    "the-gary-null-show"
+  ],
+  "content": "<p>Today in health and healing: medicinal mushrooms, anti-depressants ineffective for improving well-being in children and<span class=\"ellipsis\">...</span>\n&lt;!--more--&gt;\nadolescents, and a report from Mike Adams. <br />\nIn the environmental segment, salt water fish extinction in 30 years, and the nation’s largest reservoirs drying up. <br />\nAnd more!\n<br /></p>\n"
+}
