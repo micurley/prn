@@ -113,6 +113,12 @@ h3.date-tear-sheet-month {
 }
 
 .site-timestamp {
+    position:absolute;
+    bottom:-25px;
+    right:-125px;
+}
+
+.site-timestamp code {
     background-color:transparent;
 }
 

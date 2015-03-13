@@ -20,16 +20,13 @@
       template: '#search-results-template'  // selector for Mustache.js template
     });
 
-    $('<span class="input-group-addon" id="search-clear" style="color:red;cursor: pointer;">clear</span>').insertAfter('#search-query');
-
-
     $('#search-query').bind('input', function() {
         current_val = $(this).val();
         if(current_val.length > 3){
-            $('#search-clear').show();
+            //$('#search-clear').show();
             $('#non-search-content').hide();
         } else {
-            $('#search-clear').hide();
+            //$('#search-clear').hide();
             $('#non-search-content').show();
         }
     });
@@ -37,7 +34,7 @@
     $('#search-clear').on('click', function() {
         $('#search-query').val('');
         $('#search-results').hide();
-        $('#search-clear').hide();
+        //$('#search-clear').hide();
         $('#non-search-content').show();
     });
   });

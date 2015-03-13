@@ -53,9 +53,7 @@
         <div class="navbar-header">
           <form class="navbar-form navbar-right" role="search" id='search-form'>
             <div class="form-group">
-                <div class="input-group">
-                  <input type="text" id='search-query' name='search-query' class="form-control" placeholder="Search">
-                </div>
+              <input type="text" id='search-query' name='search-query' class="form-control" placeholder="Search">
             </div>
           </form>
           <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#jb-navbar-collapse">
@@ -1713,9 +1711,9 @@
     </div>
 
     <div id="footer">
-      <div class="container" style='position:relative;'>
-        <div style='position:absolute;bottom:0px;right:0px;'>
-            <code class='site-timestamp'>Page generated: March 12, 2015 @ 21:15</code>
+      <div class="container">
+        <div class='site-timestamp'>
+            <code>Page generated: March 12, 2015 @ 21:49</code>
         </div>
       </div>
     </div>
@@ -1753,16 +1751,13 @@
       template: '#search-results-template'  // selector for Mustache.js template
     });
 
-    $('<span class="input-group-addon" id="search-clear" style="color:red;cursor: pointer;">clear</span>').insertAfter('#search-query');
-
-
     $('#search-query').bind('input', function() {
         current_val = $(this).val();
         if(current_val.length > 3){
-            $('#search-clear').show();
+            //$('#search-clear').show();
             $('#non-search-content').hide();
         } else {
-            $('#search-clear').hide();
+            //$('#search-clear').hide();
             $('#non-search-content').show();
         }
     });
@@ -1770,7 +1765,7 @@
     $('#search-clear').on('click', function() {
         $('#search-query').val('');
         $('#search-results').hide();
-        $('#search-clear').hide();
+        //$('#search-clear').hide();
         $('#non-search-content').show();
     });
   });

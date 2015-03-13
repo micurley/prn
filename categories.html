@@ -13,7 +13,7 @@ group: navigation
 
 
 {% for category in site.categories %}
-  <h2 id="{{ category[0] }}"><a href='{{site.baseurl}}/categories/{{ category[0] | join: "/" }}'>{{ category[0] | join: "/" }}</a></h2>
+  <h2 id="{{ category[0] }}"><a href='{{ site.baseurl }}/categories/{{ category[0] | join: "/" }}'>{{ category[0] | join: "/" }}</a></h2>
   <div class='spacer'></div>
 {% endfor %}
 
