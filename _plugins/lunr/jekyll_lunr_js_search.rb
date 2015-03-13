@@ -78,7 +78,7 @@ module Jekyll
 
           @index.add(doc)
           doc.delete("body")
-          doc.delete("categories")
+          #doc.delete("categories")
           doc["url"] = site.baseurl + '/' + entry.url
           @docs[i] = doc
         end

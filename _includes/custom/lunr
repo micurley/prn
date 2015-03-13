@@ -4,7 +4,7 @@
 {% raw %}
 <script id="search-results-template" type="text/mustache">
   {{#entries}}
-    <h4><a href="{{ url }}">{{ title }}</a>{{#date}} &mdash; <small><time datetime="{{pubdate}}" pubdate>{{displaydate}}</time></small>{{/date}}</h4>
+    <h4>{{ categories }}<a href="{{ url }}">{{ title }}</a>{{#date}} &mdash; <small><time datetime="{{pubdate}}" pubdate>{{displaydate}}</time></small>{{/date}}</h4>
     <hr noshade="" style="background-color: white;border: 0px;border-bottom: 1px dashed red;">
   {{/entries}}
 </script>
