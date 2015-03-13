@@ -12,9 +12,9 @@ group: navigation
 </ul>
 -->
 
-{% assign sorted_categories = (site.categories | sort:1) %}
+{% assign sorted_categories = (site.categories | sort:0) %}
 {% for category in sorted_categories %}
-  <h2 class='category-list' id="{{ category[0] }}"><a href='{{ site.baseurl }}/categories/{{ category[0] | join: "/" }}'>{{ category[0] | join: "/" }} [{{category}}]]</a>&nbsp;<span>{{ category[1].size }}</span></h2>
+  <h2 class='category-list' id="{{ category[0] }}"><a href='{{ site.baseurl }}/categories/{{ category[0] | join: "/" }}'>{{ category[0] | join: "/" }}</a>&nbsp;<span>{{ category[1].size }}</span></h2>
   <div class='spacer'></div>
 {% endfor %}
 
