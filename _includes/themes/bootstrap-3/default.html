@@ -50,9 +50,11 @@
       <nav class="navbar navbar-default" role="navigation">
         <!-- Brand and toggle get grouped for better mobile display -->
         <div class="navbar-header">
-          <form class="navbar-form navbar-right" role="search">
+          <form class="navbar-form navbar-right" role="search" id='search-form'>
             <div class="form-group">
-              <input type="text" id='search-query' name='search-query' class="form-control" placeholder="Search">
+                <div class="input-group">
+                  <input type="text" id='search-query' name='search-query' class="form-control" placeholder="Search">
+                </div>
             </div>
           </form>
           <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#jb-navbar-collapse">
@@ -71,11 +73,6 @@
             {% assign group = 'navigation' %}
             {% include JB/pages_list %}
           </ul>
-          <form class="navbar-form navbar-right" role="search">
-            <div class="form-group">
-              <input type="text" id='search-query' name='search-query' class="form-control" placeholder="Search">
-            </div>
-          </form>
         </div><!-- /.navbar-collapse -->
       </nav>
 
@@ -95,7 +92,7 @@
     <div id="footer">
       <div class="container" style='position:relative;'>
         <div style='position:absolute;bottom:0px;right:0px;'>
-            <code>Page generated: {{ site.time | date: '%B %d, %Y' }}</code>
+            <code class='site-timestamp'>Page generated: {{ site.time | date: '%B %d, %Y @ %H:%M' }}</code>
         </div>
       </div>
     </div>

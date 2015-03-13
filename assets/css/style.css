@@ -111,3 +111,12 @@ h3.date-tear-sheet-month {
   clear: both;
   border-bottom: 1px dashed #f22430;
 }
+
+.site-timestamp {
+    background-color:transparent;
+}
+
+#search-form {
+    margin-right:0px;
+    margin-left:0px;
+}

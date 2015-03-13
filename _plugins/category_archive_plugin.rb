@@ -106,7 +106,7 @@ module Jekyll
           'layout' => @layout,
           'type' => 'archive',
           'title' => "Category archive for #{@category}",
-          'posts' => posts,
+          'posts' => posts.reverse,
           'url' => File.join('/',
                      CategoryArchiveUtil.archive_base(site),
                      @category_dir_name, 'index.html')
