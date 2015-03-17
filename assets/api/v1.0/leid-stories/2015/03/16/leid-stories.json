@@ -1,0 +1,50 @@
+{
+  "header": {
+    "category": "leid-stories",
+    "image": {
+      "type": "",
+      "url": ""
+    },
+    "layout": "podcast",
+    "link": "http://leidstories.podbean.com/e/leid-stories-031615/",
+    "podcast": {
+      "developer-note": "",
+      "length": "59:2",
+      "note": "",
+      "size": 21361406,
+      "type": "audio/mpeg",
+      "url": "http://leidstories.podbean.com/mf/feed/7v4fhk/LeidStories_031615.mp3"
+    },
+    "show": {
+      "category": [
+        "Society & Culture"
+      ],
+      "image": {
+        "height": 144,
+        "url": "http://imglogo.podbean.com/image-logo/547423/Utrice-Leid-Album-Art.jpg",
+        "width": 144
+      },
+      "owner": {
+        "email": "jtaubenfeld@garynull.com",
+        "name": "Progressive Radio Network"
+      },
+      "published": {
+        "string": "Mon, 16 Mar 2015 19:20:44 +0000",
+        "timestamp": "1426558844"
+      },
+      "subtitle": "Stories and news that affect us all",
+      "title": "Leid Stories"
+    },
+    "tags": [
+      "Society & Culture",
+      "leid-stories"
+    ],
+    "title": "Leid Stories"
+  },
+  "title": "Leid Stories",
+  "date": "2015-03-16 00:00:00 -0600",
+  "categories": [
+    "leid-stories"
+  ],
+  "content": "<p>Mayhem, Murder, Madness, Money and Media Myopia\nLeid Stories takes a look at a few major stories that illustrate how<span class=\"ellipsis\">...</span>\n&lt;!--more--&gt;\nUS news outlets willingly toe ideological, political and racial lines in their coverage, and how this in turn shapes and controls our views of the world and our place in it.\n<br />\nMedia literacy is a regular feature of Leid Stories.<br /></p>\n"
+}
