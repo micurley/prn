@@ -1,0 +1,50 @@
+{
+  "header": {
+    "category": "the-gary-null-show",
+    "image": {
+      "type": "",
+      "url": ""
+    },
+    "layout": "podcast",
+    "link": "http://thegarynullshow.podbean.com/e/gary-null-show-031715/",
+    "podcast": {
+      "developer-note": "",
+      "length": "55:17",
+      "note": "",
+      "size": 19906646,
+      "type": "audio/mpeg",
+      "url": "http://thegarynullshow.podbean.com/mf/feed/rs36t4/GaryNullShow_WBAI031615_031715.mp3"
+    },
+    "show": {
+      "category": [
+        "Health"
+      ],
+      "image": {
+        "height": 144,
+        "url": "http://thegarynullshow.podbean.com/feed/h",
+        "width": 144
+      },
+      "owner": {
+        "email": "h",
+        "name": "h"
+      },
+      "published": {
+        "string": "Tue, 17 Mar 2015 18:45:44 +0000",
+        "timestamp": "1426643144"
+      },
+      "subtitle": "h",
+      "title": "The Gary Null Show"
+    },
+    "tags": [
+      "Health",
+      "the-gary-null-show"
+    ],
+    "title": "The Gary Null Show"
+  },
+  "title": "The Gary Null Show",
+  "date": "2015-03-17 00:00:00 -0600",
+  "categories": [
+    "the-gary-null-show"
+  ],
+  "content": "<p>The latest on health and healing - good information on vitamin K2 for women.\n&lt;!--more--&gt;\nHow curcumin has proven effective at combating cancer. <br />\nPollution levels related to artery health. <br />\nAnd a lot more on health and healing. <br />\nAlso, a scientific rebuttal of a recent article on measles. <br />\nPlus, USDA whistleblowers tell all. <br /></p>\n"
+}
