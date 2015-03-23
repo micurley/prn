@@ -1,0 +1,50 @@
+{
+  "header": {
+    "category": "economic-update",
+    "image": {
+      "type": "",
+      "url": ""
+    },
+    "layout": "podcast",
+    "link": "http://economicupdate.podbean.com/e/economics-of-corruption-032215/",
+    "podcast": {
+      "developer-note": "",
+      "length": "58:3",
+      "note": "",
+      "size": 21061181,
+      "type": "audio/mpeg",
+      "url": "http://economicupdate.podbean.com/mf/feed/i8fxrn/EconUpdate032215.mp3"
+    },
+    "show": {
+      "category": [
+        "News & Politics"
+      ],
+      "image": {
+        "height": 144,
+        "url": "http://imglogo.podbean.com/image-logo/594561/Richard-Wolff-Album-Art.jpg",
+        "width": 144
+      },
+      "owner": {
+        "email": "jtaubenfeld@garynull.com",
+        "name": ""
+      },
+      "published": {
+        "string": "Sun, 22 Mar 2015 19:00:00 +0000",
+        "timestamp": "1427068800"
+      },
+      "subtitle": "New podcast weblog",
+      "title": "Economic Update"
+    },
+    "tags": [
+      "News & Politics",
+      "economic-update"
+    ],
+    "title": "Economics of Corruption"
+  },
+  "title": "Economics of Corruption",
+  "date": "2015-03-22 00:00:00 -0400",
+  "categories": [
+    "economic-update"
+  ],
+  "content": "<p>Updates on Yellen press conference,”Blockupy” protests in Europe against ECB and austerity, New York mayor DiBlasio<span class=\"ellipsis\">...</span>\n&lt;!--more--&gt;\nsigns bill for worker coops, and important fight over closing Sweet Briar college. <br />\nInterview with veteran reporter Bob Hennelly on economics of US political corruption with special focus on his native New Jersey.\n<br /></p>\n"
+}
