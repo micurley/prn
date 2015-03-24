@@ -1,0 +1,50 @@
+{
+  "header": {
+    "category": "the-gary-null-show",
+    "image": {
+      "type": "",
+      "url": ""
+    },
+    "layout": "podcast",
+    "link": "http://thegarynullshow.podbean.com/e/the-gary-null-show-032415/",
+    "podcast": {
+      "developer-note": "",
+      "length": "52:01",
+      "note": "",
+      "size": 18729878,
+      "type": "audio/mpeg",
+      "url": "http://thegarynullshow.podbean.com/mf/feed/8jhyf9/GaryNullShow_52_032415.mp3"
+    },
+    "show": {
+      "category": [
+        "Health"
+      ],
+      "image": {
+        "height": 144,
+        "url": "http://thegarynullshow.podbean.com/feed/h",
+        "width": 144
+      },
+      "owner": {
+        "email": "h",
+        "name": "h"
+      },
+      "published": {
+        "string": "Tue, 24 Mar 2015 17:00:00 +0000",
+        "timestamp": "1427234400"
+      },
+      "subtitle": "h",
+      "title": "The Gary Null Show"
+    },
+    "tags": [
+      "Health",
+      "the-gary-null-show"
+    ],
+    "title": "The Gary Null Show"
+  },
+  "title": "The Gary Null Show",
+  "date": "2015-03-24 00:00:00 -0400",
+  "categories": [
+    "the-gary-null-show"
+  ],
+  "content": "<p>We begin with the latest on health and healing - what to do if you have prostate cancer, and what to do if you’re<span class=\"ellipsis\">...</span>\n&lt;!--more--&gt;\nwithout purpose in life. <br />\nExercise linked to erectile function in men. <br />\nAlso, today is commentary day on a variety of topics, including readiness for environmental and manmade disasters, and the wasteful government bureaucracy of health care. <br /></p>\n"
+}
