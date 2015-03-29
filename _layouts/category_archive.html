@@ -5,8 +5,49 @@ layout: default
 <div class="category-archive">
   <h2 class="category-archive-title">Category archive for {{ page.category }}</h2>
   <div>
-{% assign year = page.date | date: '%m%Y' %}
-{% for post in page.posts %}
+{% for post in page.posts limit:3 %}
+    {% assign year = page.date | date: '%m%Y' %}
+    <div style='float:left;'>
+        <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
+            {% if post.image.url != '' %}
+                <img class="cover" src="{{ post.image.url }}" alt="podcast image" style='height:100%;width:100%;margin: auto;margin-left: -2px;margin-top: 2px;'>
+            {% elsif post.show.image.url != '' %}
+                <img class="cover" src="{{ post.show.image.url }}" alt="show image" style='height:100%;width:100%;margin: auto;margin-left: -2px;margin-top: 2px;'>
+            {% endif %}
+
+            <p class="date-publish" style='font-weight:bold;font-style:italic;'>
+                <date class="date-pub" title="{{ post.date | date_to_xmlschema }}" datetime="{{ post.date | date_to_xmlschema }}" pubdate>
+                <span class="month"><abbr>{{ post.date | date: '%B' }}</abbr></span>
+                <span class="day">{{ post.date | date: '%d' }}</span>
+                <span class="year">{{ post.date | date: '%Y' }}</span>
+                </date>
+                {% if post.podcast.length != '' %}
+                    &mdash; Duration: {{ post.podcast.length }}
+                {% endif %}
+            </p>
+            <div class='text-content' style='min-height: 300px;'>
+                {{ content }}
+            </div>
+            <div style='clear:both;'></div>
+            {% if post.podcast.note != '' %}
+                <h2>{{ post.podcast.note }}</h2>
+            {% endif %}
+            {% if post.podcast.url != '' %}
+            <div style='width: 100%;border: 20px solid #fafafa;margin-left: -20px;'>
+                <audio id='podcast-audio' controls preload="none" style='width: 70%;margin: 0 15%;'>
+                    <source src="{{ post.podcast.url }}" type="{{ post.podcast.type }}">
+                    Your browser does not support the audio element.
+                </audio>
+                <div style='text-align:center;'>
+                    <a href="{{ post.podcast.url }}" class="pull-right btn-download">Right Click and 'Save As" to Download</a>
+                </div>
+            </div>
+            {% endif %}
+        </div><!-- entry-content -->
+{% endfor %}
+    </div>
+
+{% for post in page.posts offset:3 %}
     {% assign post_date = post.date | date: '%m%Y' %}
     {% if post_date != year %}
         {% assign year = post.date | date: '%m%Y' %}
