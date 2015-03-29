@@ -51,11 +51,7 @@
       <nav class="navbar navbar-default" role="navigation">
         <!-- Brand and toggle get grouped for better mobile display -->
         <div class="navbar-header">
-          <form class="navbar-form navbar-right" role="search" id='search-form'>
-            <div class="form-group">
-              <input type="text" id='search-query' name='search-query' class="form-control" placeholder="Search">
-            </div>
-          </form>
+          <a href="/prn">prn.fm</a>
           <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#jb-navbar-collapse">
             <span class="sr-only">Toggle navigation</span>
             <span class="icon-bar"></span>
@@ -67,7 +63,6 @@
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="jb-navbar-collapse">
           <ul class="nav navbar-nav">
-              <li><a href="/prn">prn.fm</a></li>
             
             
             
@@ -3296,7 +3291,7 @@
     <div id="footer">
       <div class="container" style='position:relative;'>
         <div class='site-timestamp'>
-            <code>Page generated: March 29, 2015 @ 18:51</code>
+            <code>Page generated: March 29, 2015 @ 19:00</code>
         </div>
       </div>
     </div>
@@ -3311,46 +3306,4 @@
     <script src="/prn/assets/js/scripts.js"></script>
   </body>
 </html>
-
-<script src="/prn/assets/js/search.js" type="text/javascript" charset="utf-8"></script>
-<script src="/prn/assets/js/jquery.lunr.search.js" type="text/javascript" charset="utf-8"></script>
-
-
-<script id="search-results-template" type="text/mustache">
-  {{#entries}}
-    <h4>{{ categories.0 }}&nbsp;/&nbsp;<a href="{{ url }}">{{ title }}</a> &mdash; <small><time datetime="{{pubdate}}" pubdate>{{displaydate}}</time></small></h4>
-    <hr noshade="" style="background-color: white;border: 0px;border-bottom: 1px dashed red;">
-  {{/entries}}
-</script>
-
-
-
-<script type="text/javascript">
-  $(function() {
-    $('#search-query').lunrSearch({
-      indexUrl: '/prn/assets/js/index.json',   // Url for the .json file containing search index data
-      results : '#search-results',  // selector for containing search results element
-      entries : '.entries',         // selector for search entries containing element (contained within results above)
-      template: '#search-results-template'  // selector for Mustache.js template
-    });
-
-    $('#search-query').bind('input', function() {
-        current_val = $(this).val();
-        if(current_val.length > 3){
-            //$('#search-clear').show();
-            $('#non-search-content').hide();
-        } else {
-            //$('#search-clear').hide();
-            $('#non-search-content').show();
-        }
-    });
-
-    $('#search-clear').on('click', function() {
-        $('#search-query').val('');
-        $('#search-results').hide();
-        //$('#search-clear').hide();
-        $('#non-search-content').show();
-    });
-  });
-</script>
 
