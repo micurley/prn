@@ -15,7 +15,7 @@ layout: default
                 <img class="img-responsive" src="{{ post.show.image.url }}" alt="show image" style='margin: auto;'>
             {% endif %}
 
-            <p class="date-publish" style='font-weight:bold;font-style:italic;margin-top:10px;'>
+            <p class="date-publish" style='font-weight:bold;font-style:italic;margin-top:10px;text-align:center;'>
                 <date class="date-pub" title="{{ post.date | date_to_xmlschema }}" datetime="{{ post.date | date_to_xmlschema }}" pubdate>
                 <span class="month"><abbr>{{ post.date | date: '%B' }}</abbr></span>
                 <span class="day">{{ post.date | date: '%d' }}</span>
@@ -28,7 +28,7 @@ layout: default
             <div style='clear:both;'></div>
         </a>
         {% if post.podcast.url != '' %}
-        <div style='width: 100%;border: 20px solid #FFF;margin-left: -20px;'>
+        <div style='width: 100%;'>
             <audio id='podcast-audio' controls preload="none" style='width: 70%;margin: 0 15%;'>
                 <source src="{{ post.podcast.url }}" type="{{ post.podcast.type }}">
                 Your browser does not support the audio element.
