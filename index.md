@@ -8,7 +8,7 @@ tagline: from prn.fm
 <div class='row'>
 {% for post in site.posts limit:3 %}
     {% assign year = page.date | date: '%m%Y' %}
-    <div class="col-md-4">
+    <div class="col-md-4" style="padding-bottom: 25px;">
         <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
             {% if post.image.url != '' %}
                 <img class="img-responsive" src="{{ post.image.url }}" alt="podcast image" style='margin: auto;'>
@@ -42,7 +42,7 @@ tagline: from prn.fm
     </div><!-- entry-content -->
 {% endfor %}
 </div>
-<div class="date-tear-sheet-seperator"></div>
+<div class="date-tear-sheet-seperator" style='padding-bottom: 25px;'></div>
 {% for post in site.posts offset 3 limit:20 %}
 #### <small>[{{ post.category }}]({{ site.baseurl }}/categories/{{ post.category }})</small> :: [{{ post.title }}]({{ site.baseurl }}{{ post.url }}) &mdash; *{{ post.date | date_to_string }}*
 {{ post.excerpt | markdownify }}

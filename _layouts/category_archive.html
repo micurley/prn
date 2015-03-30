@@ -7,7 +7,7 @@ layout: default
   <div class='row'>
 {% for post in page.posts limit:3 %}
     {% assign year = page.date | date: '%m%Y' %}
-    <div class="col-md-4">
+    <div class="col-md-4" style="padding-bottom: 25px;">
         <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
             {% if post.image.url != '' %}
                 <img class="img-responsive" src="{{ post.image.url }}" alt="podcast image" style='margin: auto;'>
@@ -41,7 +41,7 @@ layout: default
     </div><!-- entry-content -->
 {% endfor %}
     </div>
-<div class="date-tear-sheet-seperator"></div>
+<div class="date-tear-sheet-seperator" style='padding-bottom: 25px;'></div>
 {% for post in page.posts offset:3 %}
     {% assign post_date = post.date | date: '%m%Y' %}
     {% if post_date != year %}
