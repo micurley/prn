@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Most Recent Posts
-tagline: Supporting tagline
+tagline: from prn.fm
 ---
 {% include JB/setup %}
 
@@ -42,9 +42,9 @@ tagline: Supporting tagline
     </div><!-- entry-content -->
 {% endfor %}
 </div>
-
+<div class="date-tear-sheet-seperator"></div>
 {% for post in site.posts offset 3 limit:20 %}
-#### [{{ post.category }}]({{ site.baseurl }}/categories/{{ post.category }})/[{{ post.title }}]({{ site.baseurl }}{{ post.url }}) &mdash; *{{ post.date | date_to_string }}*
+#### <small>[{{ post.category }}]({{ site.baseurl }}/categories/{{ post.category }})</small> :: [{{ post.title }}]({{ site.baseurl }}{{ post.url }}) &mdash; *{{ post.date | date_to_string }}*
 {{ post.excerpt | markdownify }}
 <hr noshade="" style="background-color: white;border: 0px;border-bottom: 1px dashed red;">
 {% endfor %}

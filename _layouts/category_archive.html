@@ -41,7 +41,7 @@ layout: default
     </div><!-- entry-content -->
 {% endfor %}
     </div>
-
+<div class="date-tear-sheet-seperator"></div>
 {% for post in page.posts offset:3 %}
     {% assign post_date = post.date | date: '%m%Y' %}
     {% if post_date != year %}
