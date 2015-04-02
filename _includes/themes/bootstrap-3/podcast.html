@@ -13,46 +13,35 @@
                     </div><!-- unit-inner -->
                 </div><!-- unit-head -->
             </header>
-
-            <div class="bd">
-                <div class="entry-content">
-                    <div style='float:left;padding-left:5px;padding-bottom:5px;border:3px solid #666;background-color:#666;overflow:hidden;margin-right: 20px;'>
-                    {% if page.image.url != '' %}
-                        <img class="cover" src="{{ page.image.url }}" alt="podcast image" style='height:100%;width:100%;margin-top: 10px;'>
-                    {% elsif page.show.image.url != '' %}
-                        <img class="cover" src="{{ page.show.image.url }}" alt="show image" style='height:100%;width:100%;margin-top: 10px;'>
-                    {% endif %}
-                    </div>
-                    <p class="date-publish" style='font-weight:bold;font-style:italic;'>
+            <div class="bd row">
+                <div class="col-md-4 audio-container" style="padding-bottom: 25px;">
+                    <div class='audio-date'>
                         <date class="date-pub" title="{{ page.date | date_to_xmlschema }}" datetime="{{ page.date | date_to_xmlschema }}" pubdate>
                         <span class="month"><abbr>{{ page.date | date: '%B' }}</abbr></span>
                         <span class="day">{{ page.date | date: '%d' }}</span>
                         <span class="year">{{ page.date | date: '%Y' }}</span>
                         </date>
-                        {% if page.podcast.length != '' %}
-                            &mdash; Duration: {{ page.podcast.length }}
-                        {% endif %}
-                    </p>
-                    <div class='text-content' style='min-height: 300px;'>
-                        {{ content }}
-                        <div class='pull-right'><a href='{{ page.link }}' target='source'>Original Post</a></div>
                     </div>
-                    <div style='clear:both;'></div>
-                    {% if page.podcast.note != '' %}
-                        <h2>{{ page.podcast.note }}</h2>
+                    {% if page.image.url != '' %}
+                        <img class="img-responsive audio-image" src="{{ page.image.url }}" alt="podcast image" style='margin: auto;'>
+                    {% elsif page.show.image.url != '' %}
+                        <img class="img-responsive audio-image" src="{{ page.show.image.url }}" alt="show image" style='margin: auto;'>
                     {% endif %}
+
                     {% if page.podcast.url != '' %}
-                    <div style='width: 100%;border: 20px solid #fff;'>
-                        <audio id='podcast-audio' controls preload="none" style='width: 70%;margin: 0 15%;'>
-                            <source src="{{ page.podcast.url }}" type="{{ page.podcast.type }}">
-                            Your browser does not support the audio element.
-                        </audio>
-                        <div style='text-align:center;'>
-                            <a href="{{ page.podcast.url }}" class="btn-download">Right Click and 'Save As" to Download</a>
-                        </div>
-                    </div>
+                        <a href="{{ page.podcast.url }}" class="btn-download">
+                            <div class='audio-play' data-audio='{{ page.podcast.url }}'></div>
+                        </a>
+                        <div style='clear:both;'></div>
+                        {% if page.podcast.length != '' %}
+                            <div class='audio-duration'>{{ page.podcast.length }}</div>
+                        {% endif %}
                     {% endif %}
                 </div><!-- entry-content -->
+                <div class='col-md-8 text-content' style='min-height: 300px;'>
+                    {{ content }}
+                    <div class='pull-right'><a href='{{ page.link }}' target='source'>Original Post</a></div>
+                </div>
             </div><!-- bd -->
         </div><!-- content -->
     </div><!-- unit-inner -->
