@@ -155,6 +155,7 @@ h3.date-tear-sheet-month {
     height: 70px;
     margin: -35px 0 0 -35px;
     z-index: 10;
+    display:none;
 }
 
 .audio-date {

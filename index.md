@@ -40,7 +40,7 @@ tagline: from prn.fm
 {% endfor %}
 </div>
 <div class="date-tear-sheet-seperator" style='padding-bottom: 25px;'></div>
-{% for post in site.posts offset 3 limit:20 %}
+{% for post in site.posts offset:3 limit:20 %}
 #### <small>[{{ post.category }}]({{ site.baseurl }}/categories/{{ post.category }})</small> :: [{{ post.title }}]({{ site.baseurl }}{{ post.url }}) &mdash; *{{ post.date | date_to_string }}*
 {{ post.excerpt | markdownify }}
 <hr noshade="" style="background-color: white;border: 0px;border-bottom: 1px dashed red;">
