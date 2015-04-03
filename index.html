@@ -39,14 +39,14 @@ tagline: from prn.fm
 {% endfor %}
 </div>
 
-{% assign year = page.date | date: '%m%Y' %}
+{% assign year = page.date | date: '%d%m%Y' %}
 {% assign start = true %}
 {% assign needs_closing = true %}
 {% for post in site.posts offset:3 limit:20 %}
-    {% assign post_date = post.date | date: '%m%Y' %}
+    {% assign post_date = post.date | date: '%d%m%Y' %}
     {% if post_date != year %}
         {% assign needs_closing = true %}
-        {% assign year = post.date | date: '%m%Y' %}
+        {% assign year = post.date | date: '%d%m%Y' %}
         {% if start == false %}
             {% assign needs_closing = false %}
                 </div>
