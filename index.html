@@ -7,7 +7,6 @@ tagline: from prn.fm
 
 <div class='row'>
 {% for post in site.posts limit:3 %}
-    {% assign year = page.date | date: '%m%Y' %}
     <div class="col-md-4 audio-container" style="padding-bottom: 25px;">
         <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
             <div class='audio-link'>
@@ -39,9 +38,42 @@ tagline: from prn.fm
     </div><!-- entry-content -->
 {% endfor %}
 </div>
-<div class="date-tear-sheet-seperator" style='padding-bottom: 25px;'></div>
+
+{% assign year = page.date | date: '%m%Y' %}
+{% assign start = true %}
+{% assign needs_closing = true %}
 {% for post in site.posts offset:3 limit:20 %}
-#### <small>[{{ post.category }}]({{ site.baseurl }}/categories/{{ post.category }})</small> :: [{{ post.title }}]({{ site.baseurl }}{{ post.url }}) &mdash; *{{ post.date | date_to_string }}*
-{{ post.excerpt | markdownify }}
-<hr noshade="" style="background-color: white;border: 0px;border-bottom: 1px dashed red;">
+    {% assign post_date = post.date | date: '%m%Y' %}
+    {% if post_date != year %}
+        {% assign needs_closing = true %}
+        {% assign year = post.date | date: '%m%Y' %}
+        {% if start == false %}
+            {% assign needs_closing = false %}
+                </div>
+            </div>
+        </div>
+        {% endif %}
+        {% assign start = false %}
+        <div class='col-md-12 box-wrapper'>
+            <div class='box-border'>
+                <div class='box'>
+                    <h3 class='box-header'>
+                        {{ post.date | date: '%B %Y' }}
+                    </h3>
+    {% endif %}
+                <h4>
+                    <small>
+                        <a href="{{ site.baseurl }}/categories/{{ post.category }}">{{ post.category }}</a>
+                    </small> :: <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+                </h4>
+                <p>{{ post.excerpt | markdownify }}</p>
+                <div class="date-tear-sheet-seperator"></div>
 {% endfor %}
+
+
+{% if needs_closing %}
+                </div>
+            </div>
+        </div>
+{% endif %}
+
