@@ -89,19 +89,6 @@ module Jekyll
       @layout =  site.config['category_archive'] && site.config['category_archive']['layout'] || 'category_archive'
       self.ext = '.html'
       self.basename = 'index'
-#      self.x_content = <<-EOS
-#{% for post in page.posts %}
-#    <li>
-#        <time datetime="2014-09-20" class="icon">
-#          <em>{{ post.date | date: '%A' }}</em>
-#          <strong>{{ post.date | date: '%B' }}</strong>
-#          <span>{{ post.date | date: '%d' }}</span>
-#        </time>
-#
-#        <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}"><span>{{ post.title }}<span></a>
-#    </li>
-#{% endfor %}
-#      EOS
       self.data = {
           'layout' => @layout,
           'type' => 'archive',
