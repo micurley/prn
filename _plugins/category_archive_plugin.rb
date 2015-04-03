@@ -109,10 +109,10 @@ module Jekyll
     end
 
     def to_liquid(attr = nil)
-      self.data.merge({
-                               'content' => self.content,
-                               'category' => @category
-                           })
+        self.data.merge({
+#           'content' => self.content,
+           'category' => @category
+        })
     end
 
     def destination(dest)
