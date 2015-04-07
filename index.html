@@ -38,18 +38,18 @@ tagline: from prn.fm
     </div><!-- entry-content -->
 {% endfor %}
 </div>
-{% assign day_count = 0 %}
+{% assign day_count = '' %}
 {% assign year = page.date | date: '%d%m%Y' %}
 {% assign start = true %}
 {% assign needs_closing = true %}
 {% for post in site.posts offset:3 limit:20 %}
     {% assign post_date = post.date | date: '%d%m%Y' %}
     {% if post_date != year %}
-        {% if day_count >= 7 %}
+        {% if day_count.size >= 7 %}
             {% break %}
         {% endif %}
 
-        {% capture day_count %}{{ day_count | plus:1 }}{% endcapture %}
+        {% capture day_count %}{{ day_count }}*{% endcapture %}
         {% assign needs_closing = true %}
         {% assign year = post.date | date: '%d%m%Y' %}
         {% if start == false %}
