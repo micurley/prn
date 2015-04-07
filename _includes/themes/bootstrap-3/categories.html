@@ -60,9 +60,6 @@
                     </h3>
     {% endif %}
                 <h4>
-                    <small>
-                        <a href="{{ site.baseurl }}/categories/{{ post.category }}">{{ post.category }}</a>
-                    </small> :: <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> &mdash;
                     {% assign d = post.date | date: "%-d" %}
                     {% case d %}
                       {% when "1" or "21" or "31" %}{{ d }}st
@@ -70,6 +67,7 @@
                       {% when "3" or "23" %}{{ d }}rd
                       {% else %}{{ d }}th
                     {% endcase %}
+                    :: <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
                 </h4>
                 <p>{{ post.excerpt | markdownify }}</p>
                 <div class="date-tear-sheet-seperator"></div>
